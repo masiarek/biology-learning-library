@@ -1,0 +1,33 @@
+# Evolution / Ewolucja
+
+[← Unit 6 · Evolution and Diversity of Life](../README.md)
+
+| English | Polski |
+|---|---|
+| **Definition.** Evolution is the change in the **heritable traits of populations** over generations — "descent with modification". Over enough time it produces new species, and it connects all life on Earth to common ancestors going back roughly 3.8 billion years. | **Definicja.** Ewolucja to zmiana **dziedzicznych cech populacji** z pokolenia na pokolenie — „pochodzenie z modyfikacjami”. W wystarczająco długim czasie prowadzi do powstawania nowych gatunków i łączy całe życie na Ziemi wspólnymi przodkami sprzed około 3,8 mld lat. |
+| **How it works.** Mutation and sexual reproduction keep producing variation; **natural selection**, chance (genetic drift), and migration then change how common each variant is. Small shifts add up: enough generations of change can split one population into two species. | **Jak działa.** Mutacje i rozmnażanie płciowe stale dostarczają zmienności; **dobór naturalny**, przypadek (dryf genetyczny) i migracje zmieniają następnie częstość poszczególnych wariantów. Małe przesunięcia się sumują: dostatecznie wiele pokoleń zmian potrafi rozszczepić jedną populację na dwa gatunki. |
+| **Example.** Watchable today: bacteria evolving antibiotic resistance within years. Readable in rocks: whales descending from four-legged land mammals through a dated series of fossils. Measurable in beaks: Darwin's finches shifting after droughts on the Galápagos. | **Przykład.** Do obejrzenia dziś: bakterie wykształcające antybiotykooporność w ciągu lat. Do odczytania w skałach: walenie pochodzące od czworonożnych ssaków lądowych, udokumentowane datowaną serią skamieniałości. Do zmierzenia w dziobach: zięby Darwina zmieniające się po suszach na Galapagos. |
+| **Why it matters.** Evolution is biology's unifying theory — it explains both the **unity** of life (shared DNA code, shared cell machinery) and its **diversity** (millions of species fitted to millions of ways of living). The evidence converges from four independent directions: the [fossil record](../fossil_record/README.md), [homologous structures](../homologous_structures/README.md), [embryological development](../embryological_development/README.md) and [vestigial structures](../vestigial_structure/README.md), and DNA comparisons. | **Dlaczego to ważne.** Ewolucja to teoria jednocząca biologię — wyjaśnia zarówno **jedność** życia (wspólny kod DNA, wspólna maszyneria komórki), jak i jego **różnorodność** (miliony gatunków dopasowanych do milionów sposobów życia). Dowody schodzą się z czterech niezależnych kierunków: [zapis kopalny](../fossil_record/README.md), [narządy homologiczne](../homologous_structures/README.md), [rozwój zarodkowy](../embryological_development/README.md) z [narządami szczątkowymi](../vestigial_structure/README.md) oraz porównania DNA. |
+| **Common mistake.** **Populations evolve; individuals do not.** No single moth turns dark and no single bacterium becomes resistant — the *percentages* in the population change as some variants out-reproduce others. And "just a theory" misreads scientific language: in science a theory is a broad, well-tested explanation, not a guess. | **Częsty błąd.** **Ewoluują populacje, nie osobniki.** Żadna pojedyncza ćma nie ciemnieje i żadna pojedyncza bakteria nie staje się oporna — zmieniają się *proporcje* w populacji, bo jedne warianty rozmnażają się skuteczniej od innych. A „tylko teoria” to nieporozumienie językowe: w nauce teoria to szerokie, gruntownie sprawdzone wyjaśnienie, nie domysł. |
+
+## Po polsku — ujęcie podręcznikowe
+
+Polskie podręczniki wykładają ewolucjonizm w porządku historycznym: poglądy Lamarcka (dziedziczenie cech nabytych — koncepcja odrzucona, ale wciąż pytana na sprawdzianach jako kontrast), teoria Darwina i Wallace'a z „O powstawaniu gatunków” (1859), wreszcie syntetyczna teoria ewolucji, łącząca darwinizm z genetyką: ewolucja to zmiana częstości alleli w puli genowej populacji, a jej czynniki to mutacje, rekombinacja, dobór naturalny, dryf genetyczny i migracje. Rozdział o dowodach dzieli je na bezpośrednie (skamieniałości, formy przejściowe jak praptak *Archaeopteryx*, relikty — „żywe skamieniałości” jak latimeria i miłorząb) oraz pośrednie (anatomia porównawcza, embriologia, biochemia — uniwersalność kodu genetycznego).
+
+Motywy maturalne: porównanie lamarkizmu z darwinizmem na konkretnym przykładzie (szyja żyrafy), rozpoznawanie czynników ewolucji w opisach, klasyfikacja dowodów oraz pojęcie „ewoluują populacje, nie osobniki”. W zakresie rozszerzonym dochodzi prawo Hardy'ego–Weinberga jako model populacji, która *nie* ewoluuje.
+
+**Szukaj po polsku:** ewolucja biologiczna · syntetyczna teoria ewolucji · dowody ewolucji · darwinizm a lamarkizm
+
+---
+
+## AP Biology deep dive
+
+**Four mechanisms, not one.** AP treats natural selection as the only mechanism that consistently produces *adaptation*, but insists you know the full list of evolutionary forces: **mutation** (ultimate source of new alleles), **genetic drift** (chance changes, strongest in small populations — bottlenecks and founder effects), **gene flow** (migration homogenizing populations), and **nonrandom mating** (shifts genotype frequencies). Any of them changes allele frequencies; only selection tracks the environment.
+
+**Hardy–Weinberg is the null hypothesis.** The equations p + q = 1 and p² + 2pq + q² = 1 describe a population that is *not* evolving, under five conditions (no mutation, no selection, no gene flow, random mating, very large population). Real data that deviate from the prediction are the quantitative *detection* of evolution — the standard AP calculation is estimating q from the frequency of a recessive phenotype and checking whether observed genotypes match expectation.
+
+**Evidence as a convergence argument.** The power of the case for evolution is independence: radiometrically dated fossil sequences, anatomical homology, developmental parallels, biogeography, and molecular phylogenies are five methods with different assumptions that keep drawing the same tree. AP's favorite modern addition is molecular: shared pseudogenes and synteny (gene-order) patterns are hard to explain by anything except common descent.
+
+**Where it sits in AP.** The whole of **AP Unit 7 (Natural Selection)** — mechanisms, population genetics, evidence, phylogeny, and speciation.
+
+**See also:** [Natural Selection](../natural_selection/README.md) · [Fossil Record](../fossil_record/README.md) · [Homologous Structures](../homologous_structures/README.md) · [Embryological Development](../embryological_development/README.md) · [Vestigial Structure](../vestigial_structure/README.md) · [Speciation](../speciation/README.md)

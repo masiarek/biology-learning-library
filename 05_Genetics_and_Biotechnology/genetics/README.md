@@ -1,0 +1,33 @@
+# Genetics / Genetyka
+
+[← Unit 5 · Genetics and Biotechnology](../README.md)
+
+| English | Polski |
+|---|---|
+| **Definition.** Genetics is the science of **heredity**: how traits pass from parents to offspring, why offspring resemble their parents — and why they are not copies of them. Its central object is the **gene**, a stretch of DNA carrying the recipe for one product. | **Definicja.** Genetyka to nauka o **dziedziczności**: o tym, jak cechy przechodzą z rodziców na potomstwo, dlaczego potomstwo przypomina rodziców — i czemu nie jest ich kopią. Jej centralnym pojęciem jest **gen**, odcinek DNA z przepisem na jeden produkt. |
+| **The details.** The field began in a monastery garden: in the 1860s **Gregor Mendel** crossed pea plants and discovered that traits travel as discrete units (today's genes and alleles) with predictable ratios — not as blended fluids. Classical genetics tracks those units through crosses and pedigrees; molecular genetics, born when DNA's role was proven, reads the units' chemical text; and biotechnology, this unit's second half, learns to rewrite it. | **Szczegóły.** Ta dziedzina zaczęła się w klasztornym ogrodzie: w latach 60. XIX w. **Grzegorz Mendel** krzyżował groch i odkrył, że cechy wędrują jako odrębne jednostki (dzisiejsze geny i allele) w przewidywalnych stosunkach liczbowych — a nie jak mieszające się płyny. Genetyka klasyczna śledzi te jednostki w krzyżówkach i rodowodach; genetyka molekularna, narodzona z dowodu na rolę DNA, odczytuje ich chemiczny zapis; a biotechnologia — druga połowa tego działu — uczy się go przepisywać. |
+| **Example.** One question, three eras of genetics: *Why is this child the only one in the family with pale skin and white hair?* Mendel's era: two carrier parents, aa child — albinism is recessive. Molecular era: the broken gene encodes tyrosinase, an enzyme of pigment-making. Biotech era: a DNA test can read the exact misspelling. | **Przykład.** Jedno pytanie, trzy epoki genetyki: *czemu to dziecko jako jedyne w rodzinie ma bardzo jasną skórę i białe włosy?* Epoka Mendla: dwoje rodziców-nosicieli, dziecko aa — albinizm jest recesywny. Epoka molekularna: uszkodzony gen koduje tyrozynazę, enzym szlaku barwnika. Epoka biotechnologii: test DNA odczyta dokładną „literówkę”. |
+| **Why it matters.** Genetics explains resemblance, predicts disease risk, powers agriculture and medicine, and identifies people from a hair. It is also the science most tangled with society — from genetic privacy to editing embryos — so basic genetic literacy is now civic literacy. | **Dlaczego to ważne.** Genetyka tłumaczy podobieństwo, przewiduje ryzyko chorób, napędza rolnictwo i medycynę, identyfikuje człowieka po włosie. To zarazem nauka najmocniej spleciona ze społeczeństwem — od prywatności genetycznej po edycję zarodków — więc podstawowa znajomość genetyki jest dziś częścią wykształcenia obywatelskiego. |
+| **Common mistake.** Genes are not destiny. For most traits, genotype sets a *range* and environment picks the point in it — identical twins differ, and "a gene for X" is journalism, not biology. One gene can shape many traits, and most traits are shaped by many genes. | **Częsty błąd.** Geny to nie przeznaczenie. Dla większości cech genotyp wyznacza *zakres*, a środowisko wybiera punkt w jego obrębie — bliźnięta jednojajowe się różnią, a „gen na X” to język gazet, nie biologii. Jeden gen może kształtować wiele cech, a większość cech kształtuje wiele genów. |
+
+## Po polsku — ujęcie podręcznikowe
+
+W polskich podręcznikach genetyka otwiera się od rozróżnienia dwóch znaczeń dziedziczności i zmienności, a następnie od klasyki: doświadczenia Grzegorza Mendla na grochu zwyczajnym prowadzą do I prawa Mendla (prawa czystości gamet) i II prawa (prawa niezależnej segregacji cech), z aparatem pojęciowym gen–allel–genotyp–fenotyp, homozygota–heterozygota, dominacja–recesywność. Dalej wykłada się chromosomową teorię dziedziczności Morgana (geny leżą na chromosomach, geny sprzężone, sprzężenie z płcią), genetykę człowieka (rodowody, choroby jednogenowe i chromosomowe) oraz podstawy genetyki molekularnej i inżynierii genetycznej.
+
+Na maturze dział genetyki należy do najbardziej „algorytmicznych”: krzyżówki jedno- i dwugenowe, grupy krwi, cechy sprzężone z płcią, analiza rodowodów i obliczanie prawdopodobieństwa. W arkuszach obowiązuje polska konwencja zapisu (P — pokolenie rodzicielskie, F₁ i F₂ — potomne, gamety w kółkach), a polecenia zaczynają się zwykle od „zapisz genotypy rodziców” — od tego kroku warto zaczynać każde zadanie.
+
+**Szukaj po polsku:** genetyka podstawowe pojęcia · prawa Mendla · krzyżówki genetyczne zadania · chromosomowa teoria dziedziczności
+
+---
+
+## AP Biology deep dive
+
+**Why peas — and why math.** Mendel's design choices were the experiment's genius: true-breeding lines, seven binary traits, controlled pollination, and *counting* thousands of offspring — turning inheritance into ratios (3:1, 9:3:3:1) that demanded a particulate mechanism. The chromosome theory (Sutton/Boveri, proven by Morgan's white-eyed flies) then mapped Mendel's abstract factors onto observable meiotic behavior: segregation = homolog separation, independent assortment = random metaphase-I orientation — the deepest "structure explains data" story in the course.
+
+**The probability engine.** AP genetics is applied probability: the multiplication rule chains independent events (chance of aabbCc from a trihybrid cross = product of three monohybrid answers), the addition rule handles alternatives, and chi-square (χ² = Σ(O−E)²/E, compared against critical values at the right degrees of freedom) formally tests whether observed offspring fit a proposed model. Fluency here converts every "weird ratio" question into a mechanical calculation.
+
+**Model organisms and the modern arc.** Drosophila, maize, *E. coli*, and *C. elegans* built classical and molecular genetics; the Human Genome Project (finished 2003) and cheap sequencing shifted the field from single genes to genome-wide association and polygenic scores — with the recurring caution that association is not causation and that most human traits are massively polygenic. That arc — Mendel to genomics in 140 years — is the framing AP essays reward.
+
+**Where it sits in AP.** Classical genetics is **AP Unit 5 (Heredity)** wholesale; the molecular half lives in **Unit 6 (Gene Expression and Regulation)**, and population-scale genetics in **Unit 7 (Natural Selection)**.
+
+**See also:** [Inheritance](../inheritance/README.md) · [Allele](../allele/README.md) · [Genotype](../genotype/README.md) · [Phenotype](../phenotype/README.md) · [Monohybrid Cross](../monohybrid_cross/README.md) · [Genome](../genome/README.md)

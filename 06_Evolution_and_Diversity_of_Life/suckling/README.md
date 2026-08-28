@@ -1,0 +1,33 @@
+# Suckling / Karmienie mlekiem
+
+[← Unit 6 · Evolution and Diversity of Life](../README.md)
+
+| English | Polski |
+|---|---|
+| **Definition.** Suckling is the feeding of young on **milk from the mother's mammary glands** — the defining trait of **mammals** (the class is literally named for it). Every mammal species nurses its young; no other animal group does. | **Definicja.** Karmienie mlekiem to odżywianie młodych **mlekiem z gruczołów mlekowych matki** — cecha definiująca **ssaki** (stąd zresztą ich polska nazwa: od ssania). Każdy gatunek ssaka karmi młode mlekiem; żadna inna grupa zwierząt tego nie robi. |
+| **The details.** Milk is a complete food — water, fats, milk sugar (lactose), proteins, minerals — plus something no formula fully copies: **antibodies**, which lend the newborn its mother's disease protection while its own immune system matures. The newborn's side is innate: rooting and sucking are reflexes that work from the first minute. Composition varies by species and need. | **Szczegóły.** Mleko to pokarm kompletny — woda, tłuszcze, cukier mleczny (laktoza), białka, sole mineralne — plus coś, czego żadna mieszanka w pełni nie kopiuje: **przeciwciała**, użyczające noworodkowi odporności matki, zanim dojrzeje jego własna. Strona noworodka jest wrodzona: szukanie brodawki i ssanie to odruchy działające od pierwszej minuty. Skład mleka różni się między gatunkami zależnie od potrzeb. |
+| **Example.** Whale milk can be roughly 40% fat — calves must grow blubber fast in cold seas; human milk is far more dilute. Even the egg-laying monotremes (platypus, echidna) nurse: they have no nipples, so milk seeps from glands onto the skin for the young to lap. First milk (colostrum) is an antibody concentrate. | **Przykład.** Mleko wielorybów potrafi mieć około 40% tłuszczu — cielęta muszą szybko zbudować warstwę tłuszczu w zimnych morzach; mleko ludzkie jest znacznie bardziej rozcieńczone. Karmią nawet jajorodne stekowce (dziobak, kolczatka): nie mają sutków, więc mleko wysącza się z gruczołów na skórę, a młode je zlizują. Pierwsze mleko (siara) to koncentrat przeciwciał. |
+| **Why it matters.** Lactation lets mammal young be born (or hatched) helpless yet fed anywhere the mother goes — the food supply walks with the family. It buys a long, protected childhood, which is exactly the window in which mammals do their learning; nursing also cements the mother–young bond that structures mammal social life. | **Dlaczego to ważne.** Laktacja pozwala młodym ssaków rodzić się (lub kluć) bezradnymi, a mimo to być karmionymi wszędzie tam, dokąd idzie matka — zapas pokarmu wędruje z rodziną. Kupuje to długie, chronione dzieciństwo, czyli dokładnie to okno, w którym ssaki się uczą; karmienie cementuje też więź matka–młode, na której opiera się życie społeczne ssaków. |
+| **Common mistake.** "Mammal = gives live birth" is the wrong definition — monotremes lay eggs yet are mammals, because they **nurse**. Milk, not live birth, defines the class. Second slip: milk is not "just food" — its antibodies are **passive immunity**, a health transfer no bottle formula fully replaces. | **Częsty błąd.** „Ssak = rodzi żywe młode” to zła definicja — stekowce składają jaja, a są ssakami, bo **karmią mlekiem**. To mleko, nie żyworodność, definiuje gromadę. Drugie potknięcie: mleko to nie „tylko pokarm” — jego przeciwciała to **odporność bierna**, transfer zdrowia, którego żadna mieszanka w pełni nie zastępuje. |
+
+## Po polsku — ujęcie podręcznikowe
+
+W polskich podręcznikach karmienie młodych mlekiem otwiera listę cech diagnostycznych ssaków (obok włosów, stałocieplności i przepony), a sama nazwa gromady — ssaki — pochodzi od ssania, co ułatwia zapamiętanie. Odruch ssania omawiany jest w fizjologii człowieka jako sztandarowy odruch bezwarunkowy noworodka, obok chwytnego. Przy stekowcach podręczniki podkreślają pozorny paradoks: dziobak składa jaja, ale karmi młode mlekiem — i właśnie dlatego jest ssakiem; ta konstrukcja („która cecha rozstrzyga?”) to ulubione pytanie sprawdzianowe.
+
+Motywy maturalne: skład i rola siary (przeciwciała → odporność bierna noworodka — łącznik z immunologią: odporność bierna naturalna), porównanie strategii rozrodczych stekowców, torbaczy i łożyskowców (u torbaczy długa laktacja w torbie zastępuje krótką ciążę) oraz zdrowotny kontekst karmienia piersią z biologii człowieka. W rozszerzeniu pojawia się laktoza i nietolerancja laktozy — enzym laktaza zanika u większości dorosłych ssaków, a utrzymywanie go u części dorosłych ludzi to świeży przykład ewolucji człowieka.
+
+**Szukaj po polsku:** gruczoły mlekowe · siara przeciwciała · odruch ssania · cechy ssaków
+
+---
+
+## AP Biology deep dive
+
+**Lactation is ancient gene recycling.** Milk protein genes (caseins) evolved from calcium-binding ancestors, and lactation predates live birth — monotremes prove the order, nursing from glands while still laying eggs. Comparative genomics shows the core milk toolkit was in place in early mammal ancestors, likely first as an egg-moistening and antimicrobial secretion that natural selection escalated into full nutrition: a stepwise origin story for a "defining" trait, which is exactly how AP frames complex-trait evolution.
+
+**Lactase persistence is AP's favorite recent human selection story.** Mammalian default: lactase shuts off after weaning. In several dairying populations, regulatory mutations near *LCT* keep it on for life — evolved independently in Europe and in African pastoralist groups (different SNPs, same phenotype: convergent evolution), with selection coefficients among the strongest measured in humans and timing that matches archaeological dairying. Gene–culture coevolution, allele-frequency maps, and a molecular mechanism in one package — it appears in AP questions repeatedly.
+
+**Passive immunity and parental investment math.** Colostral antibodies (IgA coating the gut; in some mammals IgG absorbed whole through a briefly permeable intestine) are a direct maternal fitness investment in offspring survival — measurable as survival differences in colostrum-deprived livestock. Lactation is also the single most energetically expensive thing a female mammal does, which sets up classic Unit-8 trade-off analyses: litter size vs milk per pup, lactation length vs the mother's next breeding attempt.
+
+**Where it sits in AP.** Parental investment and reproductive strategy in **AP Unit 8 (Ecology)**; lactase persistence and trait origins in **Unit 7 (Natural Selection)**.
+
+**See also:** [Placenta](../placenta/README.md) · [Internal Fertilization](../internal_fertilization/README.md) · [Innate Behavior](../innate_behavior/README.md) · [Imprinting](../imprinting/README.md)

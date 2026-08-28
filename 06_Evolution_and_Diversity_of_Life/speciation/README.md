@@ -1,0 +1,33 @@
+# Speciation / Specjacja
+
+[← Unit 6 · Evolution and Diversity of Life](../README.md)
+
+| English | Polski |
+|---|---|
+| **Definition.** Speciation is the process by which **one species splits into two or more** that can no longer interbreed. It is the origin of every branch point in the tree of life — the machine that makes biodiversity. | **Definicja.** Specjacja to proces, w którym **jeden gatunek rozdziela się na dwa lub więcej**, niezdolnych już do krzyżowania się. To źródło każdego rozgałęzienia drzewa życia — maszyna wytwarzająca bioróżnorodność. |
+| **How it works.** The usual story (**allopatric speciation**): a barrier splits the population and cuts **gene flow**; each half accumulates its own mutations under its own selection and drift; differences pile up until, even if reunited, the groups no longer mate successfully — **reproductive isolation** has evolved as a by-product. The isolation, once complete, makes the split permanent. | **Jak działa.** Zwykły scenariusz (**specjacja allopatryczna**): bariera dzieli populację i przerywa **przepływ genów**; każda połowa gromadzi własne mutacje pod własnym doborem i dryfem; różnice narastają, aż — nawet po ponownym spotkaniu — grupy nie kojarzą się już skutecznie: jako produkt uboczny wyewoluowała **izolacja rozrodcza**. Gdy izolacja jest pełna, rozdział staje się nieodwracalny. |
+| **Example.** One finch species reached the Galápagos and became more than a dozen, beaks specialized island by island — **adaptive radiation**. The Grand Canyon's Kaibab and Abert's squirrels show an early stage: separated for thousands of years, already different, still close. In plants it can happen in one step, when chromosome doubling (**polyploidy**) instantly blocks breeding with the parent species. | **Przykład.** Jeden gatunek zięby dotarł na Galapagos i stał się kilkunastoma, z dziobami wyspecjalizowanymi wyspa po wyspie — **radiacja adaptacyjna**. Wiewiórki Kaibab i Aberta znad Wielkiego Kanionu pokazują wczesne stadium: rozdzielone od tysięcy lat, już różne, wciąż bliskie. U roślin bywa jednoetapowo: podwojenie liczby chromosomów (**poliploidalność**) natychmiast blokuje krzyżowanie z gatunkiem wyjściowym. |
+| **Why it matters.** Speciation converts ordinary, small-scale evolution into new species — it is the bridge from microevolution (allele frequencies shifting) to macroevolution (new branches on the tree). Every species alive, ours included, is the output of a long chain of speciation events. | **Dlaczego to ważne.** Specjacja przekuwa zwykłą, drobnoskalową ewolucję w nowe gatunki — to most od mikroewolucji (przesunięcia częstości alleli) do makroewolucji (nowe gałęzie drzewa). Każdy żyjący gatunek, z naszym włącznie, jest wynikiem długiego łańcucha specjacji. |
+| **Common mistake.** No individual ever "becomes a new species", and no litter is born as one — speciation happens to *populations*, gradually, as interbreeding fades (polyploidy in plants is the rare one-generation exception). And the two daughter species are not "old" and "new & improved" — both are equally current twigs on the tree. | **Częsty błąd.** Żaden osobnik nie „staje się nowym gatunkiem” i żaden miot się nim nie rodzi — specjacja dotyczy *populacji* i zachodzi stopniowo, w miarę zanikania krzyżowania (poliploidalność u roślin to rzadki jednopokoleniowy wyjątek). A dwa gatunki potomne to nie „stary” i „nowy ulepszony” — oba są równie współczesnymi gałązkami drzewa. |
+
+## Po polsku — ujęcie podręcznikowe
+
+Polskie podręczniki dzielą specjację według geografii: allopatryczna (po rozdzieleniu populacji barierą — model podstawowy), sympatryczna (na wspólnym obszarze, np. przez poliploidalność u roślin) i czasem parapatryczna (populacje stykające się brzegami). Warunkiem powstania gatunku jest wykształcenie izolacji rozrodczej, której mechanizmy porządkuje się w tabeli: prezygotyczne (izolacja siedliskowa, sezonowa, etologiczna — inne zaloty, mechaniczna, gametyczna) i postzygotyczne (obumieranie mieszańców, ich bezpłodność — muł, załamanie mieszańców w F₂). Radiacja adaptacyjna — zięby Darwina — domyka rozdział jako specjacja seryjna po zasiedleniu nowego obszaru.
+
+Motywy maturalne: rozpoznanie typu specjacji z opisu, przyporządkowanie mechanizmów izolacji do kategorii pre-/postzygotycznej oraz wyjaśnienie roli poliploidalności — z praktycznym łącznikiem do rolnictwa, bo pszenica zwyczajna jest heksaploidem powstałym z krzyżówek i podwojeń genomu, a rzepak to allopoliploid kapusty i rzepy. To ulubiony przykład na to, że „nowy gatunek w jednym pokoleniu” naprawdę istnieje — u roślin.
+
+**Szukaj po polsku:** specjacja allopatryczna i sympatryczna · mechanizmy izolacji rozrodczej · radiacja adaptacyjna · poliploidalność pszenica
+
+---
+
+## AP Biology deep dive
+
+**Sympatric speciation needs a gene-flow blocker on site.** Without geography doing the work, something else must cut mixing: **polyploidy** (an autotetraploid's triploid offspring with the parent species are sterile — instant postzygotic wall; allopolyploid wheat and *Tragopogon* are documented origins), **habitat/host shifts** (apple maggot flies courting on their natal fruit — hawthorn vs apple races diverging in real time since the 1860s), or **disruptive selection plus assortative mating** (Lake Victoria cichlids choosing mates by color). AP wants the mechanism named, not just "they lived together and split".
+
+**Reinforcement and its signature.** Where incompletely isolated populations meet, unfit hybrids make mating discrimination itself advantageous — selection *for* choosiness. The observable signature: prezygotic barriers are stronger in sympatry than in allopatry (character displacement in mating traits). Its absence produces stable hybrid zones instead; both outcomes appear in AP data sets.
+
+**Tempo varies enormously.** Cichlid flocks produced hundreds of species in thousands of years; horseshoe crabs barely changed in 100 million. **Punctuated equilibrium** reads the fossil record's stasis-plus-jumps pattern as speciation concentrated in small, peripheral populations — rapid geologically, ordinary in population-genetic terms. The reconciliation (both gradual change and punctuation occur, at different scales and rates) is the nuanced answer AP rewards.
+
+**Where it sits in AP.** Speciation mechanisms, isolation, and adaptive radiation in **AP Unit 7 (Natural Selection)**.
+
+**See also:** [Geographic Isolation](../geographic_isolation/README.md) · [Species](../species/README.md) · [Gene Pool](../gene_pool/README.md) · [Natural Selection](../natural_selection/README.md) · [Evolution](../evolution/README.md)

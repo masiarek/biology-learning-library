@@ -1,0 +1,33 @@
+# Pheromone / Feromon
+
+[← Unit 6 · Evolution and Diversity of Life](../README.md)
+
+| English | Polski |
+|---|---|
+| **Definition.** A pheromone is a **chemical signal** released by one individual that changes the behavior or physiology of **another member of the same species**. It is communication by molecule instead of by sound or sight. | **Definicja.** Feromon to **sygnał chemiczny** wydzielany przez jednego osobnika i zmieniający zachowanie lub fizjologię **innego osobnika tego samego gatunku**. To komunikacja cząsteczką zamiast dźwiękiem czy obrazem. |
+| **The details.** Pheromones come in job categories: **sex pheromones** (find and attract mates), **alarm pheromones** (scatter or rally the group), **trail pheromones** (mark routes to food), **territorial marks**, and **queen/primer pheromones** that reshape physiology (keeping worker bees sterile). Chemical signals work in the dark, around obstacles, over long distances, and they linger — but they are slow and hard to switch off. | **Szczegóły.** Feromony dzielą się według zadań: **płciowe** (odnalezienie i przywabienie partnera), **alarmowe** (rozproszyć lub zmobilizować grupę), **śladowe** (znakowanie tras do pokarmu), **znakowanie terytorium** oraz **feromony królowej/torujące**, przestrajające fizjologię (utrzymują bezpłodność robotnic u pszczół). Sygnały chemiczne działają w ciemności, omijają przeszkody, niosą się daleko i długo się utrzymują — ale są powolne i trudno je „wyłączyć”. |
+| **Example.** A female silk moth releases bombykol; males detect single molecules with their feathery antennae and track her from kilometers away. Ants lay trail pheromones — that is why they march in columns — and crushed ants release alarm scents that make nestmates swarm. Dogs marking lampposts are posting chemical messages. | **Przykład.** Samica jedwabnika uwalnia bombykol; samce wykrywają pojedyncze cząsteczki pierzastymi czułkami i namierzają ją z kilometrów. Mrówki kładą feromony śladowe — dlatego maszerują w kolumnach — a rozgnieciona mrówka uwalnia zapach alarmowy, który mobilizuje towarzyszki z gniazda. Pies znaczący latarnie zostawia chemiczne ogłoszenia. |
+| **Why it matters.** Chemical signaling is the oldest and most widespread communication channel in life — bacteria already "count themselves" with chemicals. Pheromones also power species-specific mate finding, which makes them practical: pheromone traps lure one pest species while sparing pollinators, a precision alternative to spraying. | **Dlaczego to ważne.** Sygnalizacja chemiczna to najstarszy i najpowszechniejszy kanał komunikacji w przyrodzie — już bakterie „liczą się” nawzajem za pomocą związków chemicznych. Feromony napędzają też swoiste gatunkowo wyszukiwanie partnerów, co ma zastosowanie praktyczne: pułapki feromonowe wabią jeden gatunek szkodnika, oszczędzając zapylacze — precyzyjna alternatywa dla oprysków. |
+| **Common mistake.** A pheromone is strictly **within one species**. A flower's scent attracting bees is not a pheromone (different species — it is an interspecies signal), and "pheromone perfumes" for humans are marketing far ahead of the evidence. Also, a pheromone is not any smell an animal has — it is a signal molecule *evolved for* communication. | **Częsty błąd.** Feromon działa wyłącznie **wewnątrz jednego gatunku**. Zapach kwiatu wabiący pszczoły to nie feromon (inny gatunek — to sygnał międzygatunkowy), a „perfumy z feromonami” dla ludzi to marketing daleko przed dowodami. Feromonem nie jest też dowolny zapach zwierzęcia — to cząsteczka sygnałowa, która *wyewoluowała do* komunikacji. |
+
+## Po polsku — ujęcie podręcznikowe
+
+Polskie podręczniki omawiają feromony przy komunikacji zwierząt (etologia) i przy owadach społecznych: feromony płciowe (klasyka: jedwabnik morwowy i bombykol — pierwszy chemicznie zidentyfikowany feromon), śladowe u mrówek, alarmowe u pszczół oraz „substancja mateczna” królowej, hamująca rozwój jajników robotnic. Polskim kontekstem praktycznym są pułapki feromonowe w ochronie lasu — leśnicy monitorują nimi i odławiają kornika drukarza, szkodnika świerczyn znanego z Puszczy Białowieskiej; to przykład metody biologicznej, wybiórczej wobec gatunku.
+
+Na maturze feromony pojawiają się w zadaniach o komunikacji (porównanie kanałów: chemiczny, wzrokowy, słuchowy — zalety i wady każdego) oraz o owadach społecznych. Trzeba pilnować definicji: sygnał wewnątrzgatunkowy (feromon) odróżnia się od międzygatunkowego (np. allelopatia u roślin, zapach kwiatu dla zapylacza). U ssaków wspomina się narząd przylemieszowy (Jacobsona) wykrywający feromony — u człowieka szczątkowy, co ucina spekulacje o „ludzkich feromonach” na poziomie podręcznika.
+
+**Szukaj po polsku:** feromony · komunikacja chemiczna zwierząt · pułapki feromonowe kornik · feromony pszczół
+
+---
+
+## AP Biology deep dive
+
+**Signal transduction at record sensitivity.** A male silk moth's antenna is a molecular detector at the physical limit: bombykol binds odorant receptors on sensory neurons, G-protein/ion-channel cascades amplify single-molecule hits into spikes, and the male steers up the concentration gradient (chemotaxis on a plume). This is Unit-4 cell communication running an ecological errand — ligand, receptor, signal cascade, behavioral response — and AP loves the crossover framing.
+
+**Releasers vs primers.** Releaser pheromones trigger immediate behavior (alarm, trail-following); **primer pheromones** change physiology over days — queen mandibular pheromone suppresses worker ovary development, and mouse urinary proteins accelerate or block puberty (the Vandenbergh and Bruce effects). Primers show chemical communication reaching into endocrine regulation, blurring the line between "signal" and "hormone administered to another individual".
+
+**Honest signals and eavesdroppers.** Pheromone channels invite exploitation: bolas spiders synthesize moth sex pheromones to lure male moths to their death (aggressive chemical mimicry), and predators eavesdrop on prey alarm signals. Meanwhile quorum sensing in bacteria — density-dependent gene expression via autoinducers — is the same logic one kingdom over, and a listed AP example of cell-to-cell communication. Cost, honesty, and interception make pheromones a complete behavioral-ecology case study.
+
+**Where it sits in AP.** Communication and behavior in **AP Unit 8 (Ecology)**, with the receptor-and-cascade machinery from **Unit 4 (Cell Communication and Cell Cycle)**.
+
+**See also:** [Courtship](../courtship/README.md) · [Territoriality](../territoriality/README.md) · [Innate Behavior](../innate_behavior/README.md) · [Taxis](../taxis/README.md)

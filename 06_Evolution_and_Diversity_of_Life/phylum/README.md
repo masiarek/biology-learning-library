@@ -1,0 +1,33 @@
+# Phylum (Taxon) / Typ
+
+[← Unit 6 · Evolution and Diversity of Life](../README.md)
+
+| English | Polski |
+|---|---|
+| **Definition.** A phylum is the rank **below kingdom** — a group of classes sharing the same basic **body plan**. Roughly thirty-five animal phyla cover every animal on Earth, from sponges to humans. | **Definicja.** Typ to kategoria **poniżej królestwa** — grupa gromad o tym samym podstawowym **planie budowy ciała**. Około trzydziestu pięciu typów zwierząt obejmuje wszystkie zwierzęta Ziemi, od gąbek po człowieka. |
+| **The details.** Third rung of the ladder **Domain → Kingdom → Phylum → Class → Order → Family → Genus → Species** ("**D**ear **K**ing **P**hilip **C**ame **O**ver **F**or **G**ood **S**oup"). A phylum is defined by architecture: Chordata have a stiff dorsal rod (notochord) and a dorsal nerve cord; Arthropoda have an exoskeleton and jointed legs; Mollusca a soft body with a mantle; Cnidaria stinging cells and radial symmetry. | **Szczegóły.** Trzeci szczebel drabiny **domena → królestwo → typ → gromada → rząd → rodzina → rodzaj → gatunek** (po angielsku: „Dear King Philip Came Over For Good Soup”). Typ definiuje architektura ciała: strunowce mają sztywny grzbietowy pręt (strunę grzbietową) i grzbietową cewkę nerwową; stawonogi — szkielet zewnętrzny i członowane odnóża; mięczaki — miękkie ciało z płaszczem; parzydełkowce — komórki parzydełkowe i symetrię promienistą. |
+| **Example.** You are in Chordata (Eukarya → Animalia → **Chordata** → Mammalia → Primates → Hominidae → *Homo* → *Homo sapiens*) — your notochord became the discs of your spine. Insects, spiders, and crabs all share phylum Arthropoda, the largest phylum by far; snails and octopuses share Mollusca. | **Przykład.** Ty należysz do strunowców (Eukarya → Animalia → **Chordata** → Mammalia → Primates → Hominidae → *Homo* → *Homo sapiens*) — Twoja struna grzbietowa stała się m.in. dyskami kręgosłupa. Owady, pająki i kraby dzielą typ stawonogi, zdecydowanie największy ze wszystkich; ślimaki i ośmiornice — typ mięczaki. |
+| **Why it matters.** Phyla are biology's catalog of body architectures — nearly all of them appear in the fossil record during the **Cambrian explosion** about 540 million years ago, and no fundamentally new animal body plan has been added since. Knowing an organism's phylum instantly tells you how its body is organized. | **Dlaczego to ważne.** Typy to katalog architektur ciała — niemal wszystkie pojawiają się w zapisie kopalnym podczas **eksplozji kambryjskiej** około 540 mln lat temu i od tamtej pory nie przybył żaden zasadniczo nowy plan budowy zwierzęcia. Znajomość typu od razu mówi, jak zorganizowane jest ciało organizmu. |
+| **Common mistake.** In English, "phylum" vs "class" is easy; in Polish there is a trap: for animals the phylum-rank is called **typ** and class is **gromada**, but in traditional *botany* the phylum-level rank is called **gromada** (and class is *klasa*). Same word, different rank, depending on kingdom — check which system a table is using. | **Częsty błąd.** Po angielsku „phylum” i „class” łatwo rozdzielić; po polsku czyha pułapka: u zwierząt ranga typu to **typ**, a klasy — **gromada**, ale w tradycyjnej *botanice* rangę typu nazywa się **gromadą** (a niżej jest *klasa*). To samo słowo, inna ranga — zależnie od królestwa; sprawdzaj, którym systemem posługuje się tabela. |
+
+## Po polsku — ujęcie podręcznikowe
+
+W polskiej zoologii szkolnej typ to ranga tuż pod królestwem, a przegląd typów bezkręgowców i strunowców wypełnia sporą część kursu: parzydełkowce, płazińce, nicienie, pierścienice, mięczaki, stawonogi, szkarłupnie i strunowce — każdą grupę charakteryzuje się planem budowy (symetria, jamy ciała, szkielet) i przedstawicielami. Kluczowa dla ucznia jest wspomniana wyżej dwuznaczność „gromady”: u zwierząt gromada to odpowiednik angielskiej *class* (ssaki, ptaki, gady), natomiast w klasyfikacji roślin tradycyjnie mówi się „gromada okrytonasienne” na poziomie odpowiadającym typowi. Nowsze podręczniki czasem porządkują to, używając „typu” konsekwentnie, ale w zadaniach i starszych tablicach oba użycia wciąż współistnieją.
+
+Motywy maturalne: przyporządkowanie organizmu do typu po opisie planu budowy (symetria promienista czy dwuboczna, obecność struny grzbietowej, szkielet zewnętrzny), cechy diagnostyczne strunowców (struna grzbietowa, cewka nerwowa po stronie grzbietowej, szczeliny skrzelowe w gardzieli, ogon zagardłowy — przynajmniej w rozwoju zarodkowym) oraz ułożenie pełnej klasyfikacji człowieka z typem strunowce na właściwym szczeblu.
+
+**Szukaj po polsku:** typ kategoria systematyczna · typy zwierząt · strunowce cechy · gromada botanika a zoologia
+
+---
+
+## AP Biology deep dive
+
+**Body plans are developmental programs.** What makes a phylum recognizable across half a billion years is a conserved developmental architecture: axis specification, segmentation, and appendage placement are controlled by the **Hox gene** complex and its regulatory network. Arthropod and vertebrate Hox clusters are homologous — the body plans differ because the same toolkit genes are deployed with different timing, position, and targets. Phylum-level disparity is, at bottom, regulatory evolution, which is AP's bridge from Unit 6 gene regulation to Unit 7 macroevolution.
+
+**The Cambrian explosion, read carefully.** "Explosion" means most bilaterian phyla enter the fossil record within a window of roughly 20–25 million years starting ~541 million years ago — fast geologically, not instantaneous. Contributing causes under discussion: rising oxygen, the invention of predation triggering arms races (shells and eyes appear here), Hox-network maturity, and better fossilization of newly hard parts. Molecular clocks put the *divergences* earlier than the fossils, implying small soft-bodied ancestors preceded the visible burst — a standard "reconcile two data types" exam setup.
+
+**Ranks wobble; clades stand.** Phylum boundaries get renegotiated like all ranks: molecular data folded several former phyla into others and split "Protozoa"-style groupings entirely. The stable objects are clades such as Ecdysozoa (molting animals: arthropods + nematodes) and Lophotrochozoa — supra-phylum groupings recovered repeatedly from sequence data. AP will not test those names, but tree questions may show phyla regrouping under them.
+
+**Where it sits in AP.** Phylogeny and the developmental basis of body plans span **AP Unit 7 (Natural Selection)** and **Unit 6 (Gene Expression and Regulation)**.
+
+**See also:** [Kingdom](../kingdom/README.md) · [Domain](../domain/README.md) · [Classification](../classification/README.md) · [Genus](../genus/README.md) · [Species](../species/README.md)

@@ -1,0 +1,33 @@
+# Imprinting / Wdrukowanie (imprinting)
+
+[← Unit 6 · Evolution and Diversity of Life](../README.md)
+
+| English | Polski |
+|---|---|
+| **Definition.** Imprinting is a special, fast form of learning that happens only during a short **critical (sensitive) period** early in life and is then nearly **irreversible** — most famously, newly hatched birds locking onto the first large moving object as "mother". | **Definicja.** Wdrukowanie (imprinting) to szczególna, błyskawiczna forma uczenia się, zachodząca wyłącznie w krótkim **okresie krytycznym (wrażliwym)** na początku życia i potem niemal **nieodwracalna** — najsłynniej: świeżo wyklute pisklęta zapamiętują pierwszy duży poruszający się obiekt jako „matkę”. |
+| **How it works.** The program is a package deal: an inherited *readiness* to learn plus learned *content*. The chick's brain comes pre-set to record "the thing that moves and calls" within hours of hatching; what actually gets recorded depends on experience. Miss the window and the attachment never forms properly; fill it with the wrong object and the attachment sticks anyway. | **Jak działa.** Program jest pakietem: odziedziczona *gotowość* do nauki plus wyuczona *treść*. Mózg pisklęcia jest fabrycznie nastawiony, by w ciągu godzin po wykluciu zapisać „to, co się rusza i nawołuje”; co faktycznie zostanie zapisane, zależy od doświadczenia. Gdy okno się zamknie, więź już się porządnie nie wytworzy; a wypełnione niewłaściwym obiektem — i tak zostaje. |
+| **Example.** Konrad Lorenz split a clutch of greylag goose eggs: goslings that saw him first followed him for life, ignoring their real mother — the famous photos show a line of geese trailing a walking man. Salmon imprint on the smell of their home stream and find it years later from the open ocean. | **Przykład.** Konrad Lorenz podzielił lęg gęsi gęgawy: pisklęta, które najpierw zobaczyły jego, chodziły za nim przez całe życie, ignorując prawdziwą matkę — słynne zdjęcia pokazują sznur gęsi drepczących za idącym człowiekiem. Łososie wdrukowują sobie zapach rodzimej rzeki i po latach odnajdują ją z otwartego oceanu. |
+| **Why it matters.** Imprinting shows that "innate vs learned" is a false fight — here the two interlock: genes build the window, experience fills it. It matters in practice too: hand-reared cranes and geese are raised with puppets and costumes so they imprint on their own species, not on people. | **Dlaczego to ważne.** Wdrukowanie pokazuje, że spór „wrodzone czy wyuczone” jest źle postawiony — tutaj jedno i drugie się zazębia: geny budują okno, doświadczenie je wypełnia. Ma też znaczenie praktyczne: pisklęta żurawi i gęsi wychowywane przez ludzi karmi się za pomocą kukieł i kostiumów, by wdrukowały sobie własny gatunek, a nie człowieka. |
+| **Common mistake.** Imprinting is not ordinary learning. Ordinary learning works at any age and can be unlearned; imprinting works only inside its time window and then essentially cannot be corrected — a gosling imprinted on a human will not "figure it out" later. That time-locked, hard-to-reverse character is the definition. | **Częsty błąd.** Wdrukowanie to nie zwykłe uczenie się. Zwykłej wiedzy można nabywać w każdym wieku i można się jej oduczyć; wdrukowanie działa tylko w swoim oknie czasowym, a potem w zasadzie nie daje się skorygować — gąska wdrukowana na człowieka później „nie zmądrzeje”. Ta czasowa blokada i nieodwracalność to sedno definicji. |
+
+## Po polsku — ujęcie podręcznikowe
+
+W polskich podręcznikach wdrukowanie (używa się też spolszczenia „imprinting”) omawiane jest wśród form uczenia się jako przypadek szczególny: uczenie się ograniczone do okresu krytycznego (wrażliwego) i praktycznie nieodwracalne. Kanoniczna postać to Konrad Lorenz i jego gęsi gęgawy — Lorenz, obok Nikolaasa Tinbergena i Karla von Frischa, otrzymał w 1973 r. Nagrodę Nobla za badania nad zachowaniem zwierząt, co bywa przywoływane jako ciekawostka wiążąca etologię z „poważną” biologią.
+
+W zadaniach maturalnych wdrukowanie trzeba odróżnić od pozostałych form uczenia się: od habituacji (brak kojarzenia, wygasanie reakcji), od warunkowania klasycznego (kojarzenie bodźców) i instrumentalnego (kojarzenie zachowania ze skutkiem). Słowa-klucze w opisach to „krótko po wykluciu/urodzeniu”, „pierwszy poruszający się obiekt”, „podążanie za matką”. Warto też znać wdrukowanie płciowe (wybór partnera własnego gatunku w dorosłości zależy od wczesnych doświadczeń) — to argument, czemu w hodowlach zachowawczych ptaków unika się kontaktu piskląt z człowiekiem.
+
+**Szukaj po polsku:** wdrukowanie imprinting · Konrad Lorenz gęsi · okres krytyczny · formy uczenia się zwierząt
+
+---
+
+## AP Biology deep dive
+
+**Critical periods are neurobiology, not metaphor.** Imprinting windows correspond to phases of heightened synaptic plasticity in specific brain regions (in chicks, the IMM region of the forebrain), opened and closed by developmental gene-expression programs and hormone levels. The same logic — experience-expectant plasticity in a bounded window — governs birdsong learning and human language acquisition, which is why ethology's imprinting became a model for developmental neuroscience generally.
+
+**Two imprintings, one mechanism family.** **Filial imprinting** (attachment to the parent object) protects a mobile hatchling that must follow the right adult immediately — selection favors speed over accuracy, which is exactly why Lorenz could hijack it. **Sexual imprinting** operates later and sets the template for future mate choice; cross-fostering experiments (zebra finches raised by Bengalese finches court Bengalese finches as adults) show mate preference is learned early even though courtship behavior itself is largely innate. Sexual imprinting can even influence speciation, by making mate choice track early social environment.
+
+**Conservation applications.** Whooping-crane recovery programs raised chicks with crane costumes and puppet heads, then led migrations with ultralight aircraft the birds had imprinted on — an engineering use of a critical period. The cautionary mirror: raptors imprinted on falconers may court humans and ignore their own species, permanently unfit for release. AP behavior questions use such cases to test whether you can separate the innate program from the learned content.
+
+**Where it sits in AP.** Innate-plus-learned behavior and its adaptive value in **AP Unit 8 (Ecology)**, with the mate-choice angle brushing **Unit 7 (Natural Selection)**.
+
+**See also:** [Innate Behavior](../innate_behavior/README.md) · [Habituation](../habituation/README.md) · [Classical Conditioning](../classical_conditioning/README.md) · [Trial and Error Learning](../trial_and_error_learning/README.md)

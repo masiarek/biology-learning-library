@@ -1,0 +1,33 @@
+# Bacterial Transformation / Transformacja bakteryjna
+
+[← Unit 5 · Genetics and Biotechnology](../README.md)
+
+| English | Polski |
+|---|---|
+| **Definition.** Bacterial transformation is a bacterium taking up a piece of foreign DNA from its surroundings and starting to use it. In the biotech toolbox it is the **"deliver"** step: how engineered DNA gets *into* a living cell. | **Definicja.** Transformacja bakteryjna to pobranie przez bakterię obcego DNA z otoczenia i rozpoczęcie korzystania z niego. W „skrzynce narzędziowej” biotechnologii to etap **„dostarcz”**: sposób, w jaki zaprojektowane DNA trafia *do wnętrza* żywej komórki. |
+| **How it works.** In the lab, the foreign gene is first pasted into a **plasmid** — a small DNA circle bacteria happily copy. The bacteria are made "competent" (a calcium solution plus a brief **heat shock**, or an electric pulse) so the plasmid can slip through the membrane. The plasmid also carries a **marker gene**, usually antibiotic resistance: plated on that antibiotic, only the bacteria that really took up the plasmid survive and grow into colonies. | **Jak działa.** W laboratorium obcy gen najpierw wkleja się do **plazmidu** — małego kolistego DNA, które bakterie chętnie powielają. Bakterie czyni się „kompetentnymi” (roztwór wapnia i krótki **szok cieplny** albo impuls elektryczny), aby plazmid mógł przeniknąć przez błonę. Plazmid niesie też **gen markerowy**, zwykle oporność na antybiotyk: na podłożu z tym antybiotykiem przeżyją i utworzą kolonie tylko te bakterie, które naprawdę pobrały plazmid. |
+| **Example.** The flagship of biotech: the human insulin gene, transformed into *E. coli*, turned vats of bacteria into insulin factories — people with diabetes have used this recombinant insulin since 1982. A classroom favorite is transforming bacteria with a jellyfish **GFP** gene so the colonies glow green under UV light. | **Przykład.** Sztandarowy przykład biotechnologii: gen ludzkiej insuliny wprowadzony do *E. coli* zamienił kadzie bakterii w fabryki insuliny — chorzy na cukrzycę korzystają z insuliny rekombinowanej od 1982 r. Szkolnym klasykiem jest transformacja bakterii genem **GFP** z meduzy, po której kolonie świecą na zielono w świetle UV. |
+| **Why it matters.** Transformation is the gateway of genetic engineering: without a way to deliver DNA into cells, cut-and-paste recombinant DNA would stay in the test tube. It is also a natural process — bacteria really do swap DNA this way, which is one route antibiotic-resistance genes spread. | **Dlaczego to ważne.** Transformacja to brama inżynierii genetycznej: bez sposobu dostarczenia DNA do komórek pocięty i sklejony rekombinowany DNA zostałby w probówce. To także proces naturalny — bakterie naprawdę wymieniają się DNA w ten sposób i m.in. tą drogą szerzą się geny oporności na antybiotyki. |
+| **Common mistake.** The antibiotic does not *cause* transformation — it only reveals it afterwards, by killing every cell that failed to take up the plasmid. And do not mix up transformation (cell takes in DNA) with **transcription** or **translation** (how a cell reads genes) — the similar names trip students up constantly. | **Częsty błąd.** Antybiotyk nie *wywołuje* transformacji — on ją tylko później ujawnia, zabijając komórki, które plazmidu nie pobrały. Nie myl też transformacji (komórka pobiera DNA) z **transkrypcją** czy **translacją** (odczytywaniem genów) — podobne nazwy nieustannie mylą uczniów. |
+
+## Po polsku — ujęcie podręcznikowe
+
+W polskich podręcznikach transformacja to jeden z procesów horyzontalnego transferu genów u bakterii — obok koniugacji (przekazanie DNA przez mostek cytoplazmatyczny) i transdukcji (przeniesienie DNA przez bakteriofaga). Komórka zdolna do pobrania DNA z otoczenia jest w stanie kompetencji; pobrany fragment może zostać włączony do genoforu lub pozostać w komórce jako plazmid. Historycznie transformację odkrył Frederick Griffith (1928 r.) w słynnym doświadczeniu z dwoma szczepami dwoinki zapalenia płuc — łagodnym R i zjadliwym S — które stało się punktem wyjścia do wykazania, że nośnikiem informacji genetycznej jest DNA (doświadczenie Avery’ego).
+
+W dziale o biotechnologii transformacja pojawia się jako etap wprowadzania wektora (najczęściej plazmidu z genem oporności na antybiotyk jako markerem selekcyjnym) do komórek bakterii, np. przy produkcji ludzkiej insuliny przez zmodyfikowane szczepy *Escherichia coli*. Na maturze typowe polecenia dotyczą uzasadnienia roli genu markerowego i selekcji transformantów na podłożu z antybiotykiem.
+
+**Szukaj po polsku:** transformacja bakterii · doświadczenie Griffitha · plazmid wektor · horyzontalny transfer genów
+
+---
+
+## AP Biology deep dive
+
+**The historical experiment.** Griffith (1928) mixed heat-killed smooth (virulent) pneumococci with live rough (harmless) ones; mice died and live S cells were recovered — some "transforming principle" had moved between strains. Avery, MacLeod, and McCarty (1944) purified that principle and showed DNA, not protein, carried the trait. Transformation is therefore both a lab technique and a founding evidence line that DNA is the genetic material — AP likes it in both roles.
+
+**The protocol, quantitatively.** Lab transformation is inefficient — typically far fewer than 1% of cells take up the plasmid — which is why **selection** is essential, and why efficiency is reported as colony-forming units per microgram of DNA. Modern plasmids often add blue/white screening (a disrupted *lacZ* gene shows which colonies carry an insert) on top of antibiotic selection. Distinguish selection (non-transformed cells cannot grow) from screening (all grow; you can tell them apart).
+
+**Natural competence and gene flow.** Many bacteria (e.g., *Streptococcus*, *Bacillus*) become naturally competent under stress, importing environmental DNA for repair, food, or new capabilities. Together with conjugation and transduction, this **horizontal gene transfer** blurs bacterial "family trees" and accelerates the spread of antibiotic-resistance plasmids — a standing example of rapid evolution AP connects to selection.
+
+**Where it sits in AP.** Bacterial transformation is a named technique of Topic 6.8 in **AP Unit 6 (Gene Expression and Regulation)**, and horizontal gene transfer as a source of genetic variation returns in **Unit 7 (Natural Selection)**.
+
+**See also:** [Recombinant DNA](../recombinant_dna/README.md) · [Restriction Enzyme](../restriction_enzyme/README.md) · [Biotechnology](../biotechnology/README.md) · [Genetically Modified Organism (GMO)](../genetically_modified_organism/README.md) · [Genetic Recombination](../genetic_recombination/README.md)

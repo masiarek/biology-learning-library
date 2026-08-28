@@ -1,0 +1,33 @@
+# Cloning / Klonowanie
+
+[← Unit 5 · Genetics and Biotechnology](../README.md)
+
+| English | Polski |
+|---|---|
+| **Definition.** Cloning means making a genetically identical copy. Biologists clone at three scales: a **gene** (copying a DNA fragment in bacteria), a **cell** (one cell dividing into a colony of identical cells), and a whole **organism** — an animal or plant with the same nuclear DNA as its "parent". | **Definicja.** Klonowanie to tworzenie kopii identycznej genetycznie. Biolodzy klonują na trzech poziomach: **gen** (powielanie fragmentu DNA w bakteriach), **komórkę** (jedna komórka dzieli się w kolonię identycznych) i cały **organizm** — zwierzę lub roślinę o tym samym jądrowym DNA co „rodzic”. |
+| **How it works.** Organism cloning has two very different goals. **Reproductive cloning** makes a new animal: take a body-cell nucleus from the donor, put it into an egg whose own nucleus was removed (**somatic cell nuclear transfer**), spark the egg to divide, and implant the embryo in a surrogate mother. **Therapeutic cloning** stops early: the cloned embryo is a source of **embryonic stem cells**, grown into tissue that genetically matches the patient — no new organism is ever born. | **Jak działa.** Klonowanie organizmów ma dwa zupełnie różne cele. **Klonowanie reprodukcyjne** tworzy nowe zwierzę: jądro komórki somatycznej dawcy wprowadza się do komórki jajowej pozbawionej własnego jądra (**transfer jądra komórki somatycznej**), pobudza jajo do podziałów i wszczepia zarodek matce zastępczej. **Klonowanie terapeutyczne** zatrzymuje się wcześniej: sklonowany zarodek jest źródłem **zarodkowych komórek macierzystych**, z których hoduje się tkankę zgodną genetycznie z pacjentem — żaden nowy organizm się nie rodzi. |
+| **Example.** Dolly the sheep (born 1996) was the first mammal cloned from an adult body cell — her nuclear DNA came from a six-year-old ewe's udder cell. Nature clones too: identical twins are natural clones of each other, and a strawberry plant's runners are clones of the parent plant. | **Przykład.** Owca Dolly (ur. 1996) była pierwszym ssakiem sklonowanym z komórki ciała dorosłego osobnika — jej jądrowe DNA pochodziło z komórki wymienia sześcioletniej owcy. Natura też klonuje: bliźnięta jednojajowe są swoimi naturalnymi klonami, a rozłogi truskawki — klonami rośliny macierzystej. |
+| **Why it matters.** Reproductive cloning can preserve elite livestock or even endangered animals; therapeutic cloning points toward replacement tissue the immune system will not reject. Both raise sharp ethical lines — nearly all countries ban human reproductive cloning — so this is where biotech and bioethics meet head-on. | **Dlaczego to ważne.** Klonowanie reprodukcyjne pozwala zachować elitarne zwierzęta hodowlane, a nawet gatunki zagrożone; terapeutyczne otwiera drogę do tkanek zastępczych, których układ odpornościowy nie odrzuci. Oba budzą ostre spory etyczne — niemal wszystkie państwa zakazują reprodukcyjnego klonowania człowieka — tu biotechnologia zderza się z bioetyką czołowo. |
+| **Common mistake.** A clone is a genetic copy, not the same individual: Dolly was not the "same sheep" reborn, and a cloned pet would not remember its predecessor. Environment, development, and chance shape every organism — even identical twins, with identical DNA, are different people. | **Częsty błąd.** Klon to kopia genetyczna, a nie ten sam osobnik: Dolly nie była „tą samą owcą” od nowa, a sklonowany pupil nie pamiętałby poprzednika. Środowisko, rozwój i przypadek kształtują każdy organizm — nawet bliźnięta jednojajowe, o identycznym DNA, są różnymi ludźmi. |
+
+## Po polsku — ujęcie podręcznikowe
+
+W polskich podręcznikach klonowanie omawia się jako uzyskiwanie osobników identycznych genetycznie i podkreśla, że u roślin jest ono codziennością: rozmnażanie wegetatywne (sadzonki, bulwy, rozłogi) oraz kultury tkankowe *in vitro* to nic innego jak klonowanie. U zwierząt wyróżnia się klonowanie przez podział zarodka (naśladujące powstawanie bliźniąt jednojajowych) oraz metodę transferu jądra komórki somatycznej do enukleowanej komórki jajowej — tę, którą uzyskano owcę Dolly w Instytucie Roslin w Szkocji. Rozróżnienie klonowania reprodukcyjnego i terapeutycznego oraz pytanie o status ludzkiego zarodka to stałe tematy części bioetycznej działu.
+
+Na maturze pojawiają się polecenia typu: wyjaśnij, dlaczego klon ma materiał genetyczny jądra identyczny z dawcą, ale mitochondrialny DNA po dawczyni komórki jajowej; wskaż różnicę między klonowaniem reprodukcyjnym a terapeutycznym; podaj argument za i przeciw klonowaniu zwierząt.
+
+**Szukaj po polsku:** klonowanie organizmów · owca Dolly · klonowanie reprodukcyjne i terapeutyczne · rozmnażanie wegetatywne
+
+---
+
+## AP Biology deep dive
+
+**Why SCNT works at all.** Every somatic nucleus still carries the complete genome — differentiation silences genes epigenetically rather than deleting them. Nuclear transfer succeeds only if the egg's cytoplasm **reprograms** that nucleus: erasing DNA methylation and histone marks so embryonic genes can fire again. Incomplete reprogramming explains cloning's low success rate (Dolly was one live birth from 277 reconstructed eggs) and the health problems of many clones. Gurdon's frog experiments and Dolly together earned the concept a Nobel Prize (2012, shared with Yamanaka).
+
+**The modern twist — iPSCs.** Yamanaka showed four transcription factors can reprogram an adult cell into an **induced pluripotent stem cell** without any embryo. iPSCs now deliver much of therapeutic cloning's promise (patient-matched tissue) while sidestepping its central ethical objection, which is why "therapeutic cloning vs iPSC" makes a sharp compare-and-contrast prompt.
+
+**Clones are not phenotype copies.** Dolly's nuclear DNA matched the donor, but her mitochondria came from the egg donor, her X-inactivation pattern was her own, and environment did the rest — the first cloned cat, CC, had a different coat pattern than her genetic mother because coat patches depend on random X-inactivation. Cloning is the cleanest demonstration that genotype does not fully determine phenotype.
+
+**Where it sits in AP.** Cloning technology belongs with the biotech applications of **AP Unit 6 (Gene Expression and Regulation)** — SCNT and iPSCs are gene-regulation stories at heart — with cell differentiation and signaling context from **Unit 4 (Cell Communication and Cell Cycle)**.
+
+**See also:** [Biotechnology](../biotechnology/README.md) · [Genome](../genome/README.md) · [Bioethics](../bioethics/README.md) · [Transgenic Organism](../transgenic_organism/README.md) · [Zygote](../zygote/README.md)

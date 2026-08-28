@@ -1,0 +1,33 @@
+# DNA Fingerprint / Profil genetyczny (odcisk DNA)
+
+[← Unit 5 · Genetics and Biotechnology](../README.md)
+
+| English | Polski |
+|---|---|
+| **Definition.** A DNA fingerprint (DNA profile) is a pattern of DNA fragments that is practically unique to one person — the **"read"** step of the biotech toolbox, used to match a sample to an individual. | **Definicja.** Profil genetyczny (odcisk DNA) to wzór fragmentów DNA praktycznie niepowtarzalny dla danej osoby — etap **„odczytaj”** w skrzynce narzędziowej biotechnologii, służący do przypisania próbki konkretnemu człowiekowi. |
+| **How it works.** The profile does not read your whole genome. It looks at a dozen-plus special spots where a short DNA phrase repeats itself — **short tandem repeats (STRs)** — and *how many times* it repeats differs from person to person. The lab copies those spots with PCR, separates the copies by size using **gel electrophoresis**, and reads off the band pattern. Match the pattern at all the tested spots and the odds of a random coincidence fall below one in billions. | **Jak działa.** Profil nie odczytuje całego genomu. Bada kilkanaście szczególnych miejsc, w których krótki „wyraz” DNA się powtarza — to **krótkie powtórzenia tandemowe (STR)** — a *liczba* powtórzeń różni się między ludźmi. Laboratorium powiela te miejsca metodą PCR, rozdziela kopie według długości **elektroforezą żelową** i odczytuje układ prążków. Zgodność wzoru we wszystkich badanych miejscach oznacza, że przypadkowa zbieżność zdarza się rzadziej niż raz na miliardy. |
+| **Example.** A hair at a crime scene yields a profile matching the suspect's — or, just as importantly, *not* matching, which has cleared hundreds of wrongly convicted people. The same technique settles paternity tests (a child's bands must come half from mom, half from dad) and identified victims after disasters. | **Przykład.** Włos z miejsca przestępstwa daje profil zgodny z profilem podejrzanego — albo, co równie ważne, *niezgodny*, co oczyściło już setki niesłusznie skazanych. Ta sama technika rozstrzyga testy ojcostwa (prążki dziecka muszą pochodzić w połowie od matki, w połowie od ojca) i pozwoliła identyfikować ofiary katastrof. |
+| **Why it matters.** DNA profiling rebuilt forensics, family law, and even history (identifying remains of the Romanovs). It is also a privacy frontier: your profile sits in databases, and your DNA half-matches your relatives — so one person's sample tells on a whole family. | **Dlaczego to ważne.** Profilowanie DNA przebudowało kryminalistykę, prawo rodzinne, a nawet historię (identyfikacja szczątków Romanowów). To zarazem granica prywatności: profile trafiają do baz danych, a Twoje DNA w połowie pasuje do krewnych — próbka jednej osoby „opowiada” więc o całej rodzinie. |
+| **Common mistake.** A DNA fingerprint is not your genome sequence and says nothing about your traits — the tested repeats are chosen precisely because they are *not* genes. Identical twins share one profile, and a match is a statistics statement ("1 in a billion"), not magic certainty: contamination and mixed samples are real courtroom issues. | **Częsty błąd.** Odcisk DNA to nie sekwencja genomu i nic nie mówi o cechach — badane powtórzenia wybrano właśnie dlatego, że *nie* są genami. Bliźnięta jednojajowe mają wspólny profil, a „zgodność” to zdanie ze statystyki („1 na miliard”), nie magiczna pewność: zanieczyszczenie i próbki mieszane to realne problemy sal sądowych. |
+
+## Po polsku — ujęcie podręcznikowe
+
+W polskich podręcznikach profil genetyczny omawia się w rozdziale o zastosowaniach biotechnologii, pod nazwami „odcisk genetyczny”, „profilowanie DNA” lub „genetyka sądowa”. Metoda opiera się na sekwencjach mikrosatelitarnych (STR) — niekodujących odcinkach DNA o zmiennej osobniczo liczbie powtórzeń; do analizy śladowych ilości materiału (włos, ślina, krew) konieczne jest wcześniejsze powielenie DNA techniką PCR (łańcuchową reakcją polimerazy), a rozdział fragmentów zapewnia elektroforeza. Historycznie technikę opracował Alec Jeffreys (1984 r.), a pierwsze głośne zastosowania dotyczyły spraw kryminalnych i testów ojcostwa.
+
+Na maturze typowe zadania każą odczytać wynik elektroforezy: wskazać, które prążki dziecka pochodzą od matki, a które od domniemanego ojca, albo który z profili odpowiada śladowi z miejsca zdarzenia. Warto pamiętać sformułowanie, że profil ustala się na podstawie DNA **pozagenowego** — dzięki temu nie ujawnia on informacji o cechach czy chorobach badanej osoby.
+
+**Szukaj po polsku:** profil genetyczny · odcisk genetyczny DNA · sekwencje mikrosatelitarne STR · genetyka sądowa PCR
+
+---
+
+## AP Biology deep dive
+
+**Why STRs vary so much.** Tandem repeats mutate by **replication slippage**: DNA polymerase stutters on repetitive templates, adding or dropping repeat units at rates far above point-mutation rates. That generates many alleles per locus (high heterozygosity), and because each person carries two alleles per STR, a 13–20-locus panel multiplies exclusion probabilities into the 10⁻¹⁵ range. The loci are deliberately intergenic or intronic — maximally informative for identity, minimally informative about phenotype, a designed-in privacy feature.
+
+**The pipeline is this unit's toolbox in one assay.** PCR amplifies each STR with fluorescent primers (tiny samples suffice — a licked stamp works); capillary electrophoresis sizes the products to single-base resolution; a child's profile shows one maternal and one paternal allele at every locus — Mendelian segregation, visualized. Older RFLP fingerprinting (restriction digest + Southern blot) is the historical bridge from restriction enzymes to modern profiling.
+
+**Statistics and its edge cases.** Match probability comes from allele frequencies via the product rule across independent loci — Hardy–Weinberg in forensic clothing, with corrections for population substructure. Live controversies worth knowing: familial searching (partial matches implicating relatives), forensic genetic genealogy (the 2018 Golden State Killer case used a consumer-genealogy database), and degraded or mixed samples where probabilistic genotyping replaces a clean yes/no.
+
+**Where it sits in AP.** Electrophoresis and PCR are named techniques of **AP Unit 6 (Gene Expression and Regulation, Topic 6.8)**; reading a profile is applied Mendelian segregation from **Unit 5**, and match statistics borrow the population-genetics math of **Unit 7**.
+
+**See also:** [Gel Electrophoresis](../gel_electrophoresis/README.md) · [Restriction Enzyme](../restriction_enzyme/README.md) · [Genome](../genome/README.md) · [Biotechnology](../biotechnology/README.md) · [Bioethics](../bioethics/README.md)
