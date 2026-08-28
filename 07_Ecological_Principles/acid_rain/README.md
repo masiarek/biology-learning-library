@@ -1,0 +1,33 @@
+# Acid Rain / Kwaśne deszcze
+
+[← Unit 7 · Ecological Principles](../README.md)
+
+| English | Polski |
+|---|---|
+| **Definition.** Acid rain is rain (or snow or fog) that is much more acidic than normal because air pollution — mainly **sulfur dioxide (SO₂)** and **nitrogen oxides (NOₓ)** from burning fossil fuels — turns into acids in the atmosphere. | **Definicja.** Kwaśne deszcze to opady (deszcz, śnieg lub mgła) znacznie bardziej kwasowe niż zwykle, ponieważ zanieczyszczenia powietrza — głównie **dwutlenek siarki (SO₂)** i **tlenki azotu (NOₓ)** ze spalania paliw kopalnych — przekształcają się w atmosferze w kwasy. |
+| **How it works.** Power plants, factories, and car engines release SO₂ and NOₓ high into the air. There the gases react with water and oxygen to form **sulfuric acid** and **nitric acid**, which fall back to Earth in precipitation — often hundreds of kilometers downwind from the smokestack. Normal rain is already slightly acidic (about pH 5.6) because of CO₂, but acid rain can drop to pH 4 or lower — and remember, each pH step is a tenfold change. | **Jak działa.** Elektrownie, fabryki i silniki samochodów emitują SO₂ i NOₓ wysoko do atmosfery. Tam gazy te reagują z wodą i tlenem, tworząc **kwas siarkowy** i **kwas azotowy**, które wracają na ziemię z opadami — często setki kilometrów z wiatrem od komina. Zwykły deszcz i tak jest lekko kwasowy (ok. pH 5,6) z powodu CO₂, ale kwaśny deszcz może mieć pH 4 lub niższe — a pamiętaj, że każdy stopień skali pH to zmiana dziesięciokrotna. |
+| **Example.** In the 1970s and 80s acid rain killed the fish in thousands of lakes in Scandinavia and North America, and whole mountain forests — including the spruce forests of the Polish–Czech–German "Black Triangle" — turned into stands of dead trees. Acid precipitation also slowly dissolves limestone buildings and statues. | **Przykład.** W latach 70. i 80. XX wieku kwaśne deszcze wytruły ryby w tysiącach jezior Skandynawii i Ameryki Północnej, a całe górskie lasy — w tym świerczyny polsko-czesko-niemieckiego „Czarnego Trójkąta” — zamieniły się w połacie martwych drzew. Kwaśne opady powoli rozpuszczają też wapienne budowle i pomniki. |
+| **Why it matters.** Acidified water kills fish eggs and amphibians, and acid washes nutrients out of forest soils while freeing toxic aluminum into lakes. It is also a rare environmental good-news story: laws that forced power plants to install scrubbers and trade emission permits cut SO₂ dramatically, and many lakes and forests are slowly recovering. | **Dlaczego to ważne.** Zakwaszona woda zabija ikrę ryb i płazy, a kwas wypłukuje z leśnych gleb składniki odżywcze, uwalniając przy tym do jezior toksyczny glin. To zarazem rzadka ekologiczna historia z dobrym zakończeniem: przepisy, które zmusiły elektrownie do odsiarczania spalin i handlu pozwoleniami na emisję, drastycznie ograniczyły SO₂, a wiele jezior i lasów powoli się odradza. |
+| **Common mistake.** Acid rain is not caused by CO₂ or "the greenhouse effect" — it comes from SO₂ and NOₓ, and it is a separate problem from climate change (the same root source, burning fossil fuels, but a different mechanism and different fixes). | **Częsty błąd.** Kwaśnych deszczów nie powoduje CO₂ ani „efekt cieplarniany” — powodują je SO₂ i NOₓ i jest to osobny problem, inny niż zmiana klimatu (wspólne źródło, czyli spalanie paliw kopalnych, ale inny mechanizm i inne rozwiązania). |
+
+## Po polsku — ujęcie podręcznikowe
+
+W polskich podręcznikach mówi się częściej o „kwaśnych opadach” niż tylko o deszczach — zakwaszony bywa również śnieg, mgła i osiadający pył. Ich źródłem są przede wszystkim tlenki siarki i azotu ze spalania węgla w elektrowniach i piecach oraz ze spalin samochodowych; w atmosferze przechodzą one w kwasy, które opadają nieraz setki kilometrów od miejsca emisji. To temat z pogranicza biologii, chemii i geografii: na chemii zapisuje się równania powstawania kwasów, na biologii omawia skutki ekologiczne — zakwaszenie jezior i gleb, uwalnianie toksycznego glinu, osłabianie i zamieranie drzew.
+
+Polska ma tu własny, mocny przykład: w latach 70. i 80. XX w. kwaśne opady znad zagłębi węglowych tzw. Czarnego Trójkąta (pogranicze Polski, Czech i NRD) doprowadziły do zamierania świerczyn w Karkonoszach i Górach Izerskich — zdjęcia „martwych lasów” trafiły do podręczników. Dziś emisje SO₂ są radykalnie niższe dzięki odsiarczaniu spalin i normom emisyjnym, a lasy powoli się odbudowują. Na maturze typowe polecenia dotyczą przyczyn i skutków kwaśnych opadów oraz odróżnienia tego problemu od efektu cieplarnianego i dziury ozonowej.
+
+**Szukaj po polsku:** kwaśne deszcze · kwaśne opady · zamieranie lasów w Karkonoszach · odsiarczanie spalin
+
+---
+
+## AP Biology deep dive
+
+**The chemistry.** SO₂ and NOₓ oxidize in the atmosphere and combine with water to form H₂SO₄ and HNO₃, which reach ecosystems as wet deposition (rain, snow, fog) and dry deposition (particles and gases that acidify once wetted). Unpolluted rain sits near pH 5.6 because dissolved CO₂ forms weak carbonic acid — the same equilibrium as the blood buffer — so "acid rain" means precipitation pushed well below that baseline, historically to pH 4 and occasionally lower.
+
+**Why some lakes die and others shrug.** Watershed geology sets the sensitivity. Limestone bedrock buffers acid inputs — carbonate ions soak up added H⁺, conjugate-base logic straight from Unit 1 — while thin soils over granite have almost no buffering capacity, which is why Scandinavia, the Adirondacks, and Poland's Sudety ranges were hit hardest. Below roughly pH 5, aluminum leached from soil damages fish gills and amphibian eggs, and calcium and magnesium wash out of forest soils, weakening trees until frost, insects, and fungi finish the job.
+
+**The policy experiment.** The US Clean Air Act Amendments of 1990 created a cap-and-trade market for SO₂: a shrinking national cap with tradable emission allowances. Emissions fell faster and far more cheaply than predicted, and the design later inspired carbon markets; European desulfurization brought the Black Triangle forests back from the edge. Recovery is real but slow — water chemistry improves within years, biological communities take decades, and nitrogen deposition remains the unfinished half of the problem.
+
+**Where it sits in AP.** Human disruptions to ecosystems in **AP Unit 8 (Ecology, Topic 8.7)**, with the pH and buffering chemistry drawing directly on **Unit 1 (Chemistry of Life)**.
+
+**See also:** [Fossil Fuels](../fossil_fuels/README.md) · [Greenhouse Gases](../greenhouse_gases/README.md) · [Climate Change](../climate_change/README.md) · [Eutrophication](../eutrophication/README.md) · [Mitigation](../mitigation/README.md)

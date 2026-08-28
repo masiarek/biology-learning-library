@@ -1,0 +1,33 @@
+# Greenhouse Gases / Gazy cieplarniane
+
+[← Unit 7 · Ecological Principles](../README.md)
+
+| English | Polski |
+|---|---|
+| **Definition.** Greenhouse gases are gases in the atmosphere that let sunlight pass through but absorb the infrared (heat) radiation the warmed Earth sends back — holding part of that heat in, like a blanket. The main ones: **carbon dioxide (CO₂), methane (CH₄), nitrous oxide (N₂O), water vapor, and CFCs**. | **Definicja.** Gazy cieplarniane to gazy atmosferyczne, które przepuszczają światło słoneczne, ale pochłaniają promieniowanie podczerwone (cieplne) wysyłane z powrotem przez ogrzaną Ziemię — zatrzymując część tego ciepła niczym kołdra. Najważniejsze: **dwutlenek węgla (CO₂), metan (CH₄), podtlenek azotu (N₂O), para wodna i freony**. |
+| **The details.** The greenhouse effect itself is natural and essential — without it Earth would average about **−18 °C** instead of +15 °C. The problem is the extra layer we add: CO₂ from burning fossil fuels and deforestation, methane from cattle, rice paddies, landfills, and gas leaks, N₂O from fertilized fields. Gases differ in punch and lifespan: a methane molecule traps far more heat than a CO₂ molecule but breaks down within decades, while CO₂ lingers for centuries — which is why CO₂ dominates the long-term problem. | **Szczegóły.** Sam efekt cieplarniany jest naturalny i niezbędny — bez niego średnia temperatura Ziemi wynosiłaby około **−18 °C** zamiast +15 °C. Problemem jest dokładana przez nas warstwa: CO₂ ze spalania paliw kopalnych i wylesiania, metan od bydła, z pól ryżowych, wysypisk i nieszczelnych gazociągów, N₂O z nawożonych pól. Gazy różnią się siłą i trwałością: cząsteczka metanu zatrzymuje znacznie więcej ciepła niż cząsteczka CO₂, ale rozpada się w ciągu dziesięcioleci, podczas gdy CO₂ utrzymuje się przez stulecia — dlatego to CO₂ dominuje w problemie długoterminowym. |
+| **Example.** A car parked in the sun: glass lets light in, and the heat has trouble getting back out — a rough but useful picture. On the planetary scale, compare neighbors: Mars, with its thin atmosphere, is frozen; Venus, wrapped in thick CO₂, is a furnace; Earth sits in between — with exactly enough blanket, so far. | **Przykład.** Samochód zaparkowany na słońcu: szyby wpuszczają światło, a ciepło z trudem ucieka — obraz uproszczony, ale użyteczny. W skali planet porównaj sąsiadów: Mars o cienkiej atmosferze jest zamarznięty; Wenus, spowita gęstym CO₂, to piec; Ziemia jest pośrodku — z dokładnie odpowiednią kołdrą, jak dotąd. |
+| **Why it matters.** The strengthened greenhouse effect is the engine of modern climate change. Knowing which gas comes from which activity tells you which fixes work: energy for CO₂, farming and leak-hunting for methane, fertilizer practice for N₂O. | **Dlaczego to ważne.** Wzmocniony efekt cieplarniany to silnik współczesnej zmiany klimatu. Wiedza, który gaz pochodzi z jakiej działalności, wskazuje skuteczne środki: energetyka dla CO₂, rolnictwo i uszczelnianie wycieków dla metanu, praktyki nawożenia dla N₂O. |
+| **Common mistake.** The greenhouse effect is not itself the disaster — without it Earth would be frozen; the problem is *strengthening* it. And greenhouse gases do not "block sunlight from getting in" — sunlight enters almost freely; what they absorb is the **outgoing infrared** on its way back to space. | **Częsty błąd.** Efekt cieplarniany sam w sobie nie jest katastrofą — bez niego Ziemia byłaby zamarznięta; problemem jest jego *wzmacnianie*. Gazy cieplarniane nie „blokują też wpadającego światła słonecznego” — ono wchodzi niemal swobodnie; pochłaniane jest **wychodzące promieniowanie podczerwone** w drodze powrotnej w kosmos. |
+
+## Po polsku — ujęcie podręcznikowe
+
+Polskie podręczniki wymieniają wśród gazów cieplarnianych parę wodną, dwutlenek węgla, metan, podtlenek azotu, ozon i freony, a efekt cieplarniany dzielą na naturalny — dzięki któremu życie na Ziemi jest w ogóle możliwe — i spotęgowany (antropogeniczny), wywołany emisjami z energetyki, transportu, rolnictwa i wysypisk. Standardowy schemat z podręcznika pokazuje krótkofalowe promieniowanie słoneczne docierające do powierzchni i długofalowe promieniowanie cieplne zatrzymywane przez atmosferę; umiejętność opisania tego rysunku bywa wprost punktowana. W polskim kontekście jako źródła wskazuje się energetykę węglową (CO₂), hodowlę bydła i składowiska odpadów (metan) oraz nawożenie azotowe (podtlenek azotu).
+
+Na maturze z biologii i geografii dwa błędy są klasycznie „łapane”: utożsamianie efektu cieplarnianego z dziurą ozonową oraz twierdzenie, że efekt cieplarniany jest w całości szkodliwy. Warto też kojarzyć, że para wodna jest najobfitszym gazem cieplarnianym, ale człowiek steruje klimatem przez CO₂ i metan, a para wodna jedynie wzmacnia ich działanie.
+
+**Szukaj po polsku:** gazy cieplarniane · efekt cieplarniany · emisja metanu · promieniowanie podczerwone
+
+---
+
+## AP Biology deep dive
+
+**The physics in one paragraph.** Molecules with three or more atoms (CO₂, CH₄, N₂O, H₂O) have vibrational modes that absorb infrared photons; N₂ and O₂ — 99% of the atmosphere — do not, which is why trace gases run the thermostat. Absorbed energy is re-emitted in all directions, so part of the outgoing flux is returned downward; the natural effect is worth about 33 °C of warming (−18 °C airless baseline versus +15 °C observed).
+
+**Not all gases are equal.** Global warming potential (GWP) compares heat trapped per kilogram against CO₂ over a chosen horizon: methane scores roughly 80× over 20 years but ~28× over 100 (it oxidizes away), N₂O ~265×, and some CFCs reach the thousands. CO₂ still dominates radiative forcing because of sheer volume and multi-century persistence. Water vapor is classed as a *feedback*, not a forcing: its concentration follows temperature (warmer air holds more), amplifying whatever the long-lived gases start.
+
+**The biology in the budget.** Methane is made by methanogenic archaea in anaerobic guts, paddies, landfills, and thawing permafrost; N₂O leaks from microbial nitrification and denitrification in fertilized soil. So two of the three big greenhouse gases are microbial products whose emissions humans multiplied by re-engineering agriculture — a tidy AP synthesis of microbiology, nutrient cycles, and global change.
+
+**Where it sits in AP.** Global change in **AP Unit 8 (Ecology, Topic 8.7)**, with the microbial sources connecting to nutrient cycling and the CO₂ arrows to photosynthesis and respiration in **Unit 3**.
+
+**See also:** [Climate Change](../climate_change/README.md) · [Fossil Fuels](../fossil_fuels/README.md) · [Carbon Sink](../carbon_sink/README.md) · [Chlorofluorocarbons (CFCs)](../chlorofluorocarbons/README.md) · [Mitigation](../mitigation/README.md)

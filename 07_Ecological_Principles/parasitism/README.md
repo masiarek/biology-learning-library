@@ -1,0 +1,33 @@
+# Parasitism / Pasożytnictwo
+
+[← Unit 7 · Ecological Principles](../README.md)
+
+| English | Polski |
+|---|---|
+| **Definition.** Parasitism is a **(+/−)** relationship: the parasite lives on or in a host and feeds at its expense — harming it, but usually not killing it outright, because a living host is a long-term meal ticket. | **Definicja.** Pasożytnictwo to zależność **(+/−)**: pasożyt żyje na powierzchni lub wewnątrz ciała żywiciela i odżywia się jego kosztem — szkodzi mu, ale zwykle nie zabija go od razu, bo żywy żywiciel to długoterminowa stołówka. |
+| **How it works.** **Ectoparasites** live outside the host (ticks, fleas, lice); **endoparasites** live inside (tapeworms, roundworms, liver flukes). Their adaptations are all about staying attached and reproducing massively: hooks and suckers, huge egg output, simplified bodies (a tapeworm has no gut — it soaks up the host's digested food through its skin), and often complex life cycles passing through one or more **intermediate hosts** before the final one. | **Jak działa.** **Pasożyty zewnętrzne** (ektopasożyty) żyją na powierzchni żywiciela (kleszcze, pchły, wszy); **wewnętrzne** (endopasożyty) — w jego wnętrzu (tasiemce, glisty, motylica wątrobowa). Ich przystosowania służą trzymaniu się i masowemu rozrodowi: haczyki i przyssawki, ogromna produkcja jaj, uproszczona budowa (tasiemiec nie ma jelita — wchłania strawiony pokarm żywiciela całą powierzchnią ciała) i często złożone cykle rozwojowe, wiodące przez jednego lub kilku **żywicieli pośrednich** do ostatecznego. |
+| **Example.** A tick on a deer (outside), a tapeworm in an intestine (inside), mistletoe tapping a tree's water and minerals (a half-parasite — it photosynthesizes but steals the rest). The cuckoo runs **brood parasitism**: it outsources chick-raising to other birds, at their chicks' expense. | **Przykład.** Kleszcz na sarnie (na zewnątrz), tasiemiec w jelicie (wewnątrz), jemioła podkradająca drzewu wodę i sole mineralne (półpasożyt — fotosyntetyzuje, resztę kradnie). Kukułka uprawia **pasożytnictwo lęgowe**: podrzuca wychowanie piskląt innym ptakom, kosztem ich własnych lęgów. |
+| **Why it matters.** Parasitism may be the most common lifestyle on Earth — a large share of all species are parasites, and every free-living species carries some. Infectious diseases are parasitism by microbes, so medicine and veterinary science are largely applied parasitology; ecologically, parasites regulate host populations, hitting the crowded and the weakened hardest. | **Dlaczego to ważne.** Pasożytnictwo jest być może najpowszechniejszym stylem życia na Ziemi — pasożyty to spora część wszystkich gatunków, a każdy gatunek wolno żyjący jakieś nosi. Choroby zakaźne to pasożytnictwo drobnoustrojów, więc medycyna i weterynaria to w dużej mierze stosowana parazytologia; ekologicznie pasożyty regulują populacje żywicieli, uderzając najmocniej w zagęszczone i osłabione. |
+| **Common mistake.** Parasite vs predator: a predator kills quickly and moves on; a parasite feeds over time and usually keeps its host alive — killing it is bad business (though heavy infestations do kill). And note: in the broad sense, parasitism *is* a form of symbiosis — "symbiosis" does not mean both sides benefit. | **Częsty błąd.** Pasożyt a drapieżnik: drapieżnik zabija szybko i idzie dalej; pasożyt żeruje długo i zwykle utrzymuje żywiciela przy życiu — zabicie go to zły interes (choć masowe zarażenie potrafi zabić). I uwaga: w szerokim ujęciu pasożytnictwo *jest* formą symbiozy — „symbioza” nie oznacza obopólnej korzyści. |
+
+## Po polsku — ujęcie podręcznikowe
+
+Pasożytnictwo to w polskich podręcznikach oddziaływanie antagonistyczne (+/−), a jego omówienie ciągnie się przez dwa działy: ekologię i biologię człowieka. Kanon szkolny obejmuje podział na ektopasożyty (kleszcz, wesz, pchła) i endopasożyty (tasiemiec uzbrojony i nieuzbrojony, glista ludzka, owsik, włosień, motylica wątrobowa) oraz pojęcia żywiciela pośredniego i ostatecznego: żywiciel ostateczny gości postać dorosłą pasożyta, pośredni — stadia larwalne. Wymienia się typowe przystosowania: narządy czepne (przyssawki, haczyki), ogromną rozrodczość, redukcję układów (pokarmowego u tasiemca, zmysłów), oddychanie beztlenowe; osobną kategorię stanowią półpasożyty roślinne (jemioła) i pasożytnictwo lęgowe kukułki.
+
+Na maturze cykle rozwojowe to klasyka: tasiemiec (żywiciel pośredni — świnia lub bydło, ostateczny — człowiek), motylica (ślimak błotniarka), owsik (samozarażenie) — wraz z profilaktyką: mycie rąk, badanie mięsa, obróbka termiczna. Warto pilnować, by nie mylić wektora choroby (kleszcz przenoszący krętki boreliozy) z samym pasożytem.
+
+**Szukaj po polsku:** pasożytnictwo · żywiciel pośredni i ostateczny · cykl rozwojowy tasiemca · ektopasożyty i endopasożyty
+
+---
+
+## AP Biology deep dive
+
+**Virulence evolves — and not toward zero by default.** The trade-off hypothesis: a parasite too aggressive kills its host before transmitting; one too mild gets outcompeted within hosts. The classic natural experiment is myxoma virus, released against Australian rabbits in 1950: case fatality began above 99%, then intermediate-virulence strains took over because they kept infectious rabbits alive longer — while the rabbits themselves evolved resistance. Host and parasite chase each other indefinitely: the Red Queen dynamic, one of biology's favorite explanations for the persistence of sexual reproduction.
+
+**Life cycles as ecological engineering.** Multi-host cycles ride the food chain: the lancet liver fluke makes infected ants clamp onto grass tips at dusk, exactly where grazing sheep — the next host — will eat them. Host manipulation of this kind shows how strong selection on transmission can be, and parasitoid wasps (larvae consuming a living caterpillar from inside) mark the blurry border between parasitism and predation.
+
+**Parasites regulate populations.** Transmission usually scales with host density, making disease a density-dependent limiting factor: epidemics clip crowded populations and spare sparse ones, one of the negative feedbacks that keeps populations near carrying capacity. Conservation biology increasingly treats parasites as normal biodiversity — and host crowding (farms, feeders) as the risk factor it is.
+
+**Where it sits in AP.** Community interactions in **AP Unit 8 (Ecology, Topic 8.5)** and density-dependent regulation in 8.4, with coevolutionary arms races reaching into **Unit 7 (Natural Selection)**.
+
+**See also:** [Symbiosis](../symbiosis/README.md) · [Mutualism](../mutualism/README.md) · [Commensalism](../commensalism/README.md) · [Predator](../predator/README.md) · [Population](../population/README.md)

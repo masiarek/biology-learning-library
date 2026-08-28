@@ -1,0 +1,33 @@
+# Chlorofluorocarbons (CFCs) / Freony (CFC)
+
+[← Unit 7 · Ecological Principles](../README.md)
+
+| English | Polski |
+|---|---|
+| **Definition.** Chlorofluorocarbons (CFCs) are human-made gases built of carbon, chlorine, and fluorine. Once prized as refrigerants and spray-can propellants because they are non-toxic and non-flammable, they turned out to destroy the **ozone layer** high in the atmosphere. | **Definicja.** Freony (CFC, chlorofluorowęglowodory) to wytworzone przez człowieka gazy zbudowane z węgla, chloru i fluoru. Cenione kiedyś jako czynniki chłodnicze i gazy nośne w aerozolach — bo są nietoksyczne i niepalne — okazały się niszczyć **warstwę ozonową** wysoko w atmosferze. |
+| **The details.** The very stability that made CFCs "safe" lets them drift unchanged for decades up into the **stratosphere**. There, harsh UV light breaks them apart, releasing chlorine atoms — and one chlorine atom acts like a wrecking crew, destroying ozone molecule after ozone molecule (on the order of a hundred thousand each). Less ozone means more of the Sun's **UV radiation** reaching the ground. | **Szczegóły.** Ta sama trwałość, która czyniła freony „bezpiecznymi”, pozwala im dryfować w niezmienionej postaci przez dziesięciolecia aż do **stratosfery**. Tam ostre promieniowanie UV rozbija je, uwalniając atomy chloru — a jeden atom chloru działa jak ekipa rozbiórkowa, niszcząc cząsteczkę ozonu za cząsteczką (rzędu stu tysięcy sztuk). Mniej ozonu to więcej słonecznego **promieniowania UV** docierającego do powierzchni Ziemi. |
+| **Example.** In 1985 scientists reported a springtime "**ozone hole**" over Antarctica. The world reacted with unusual speed: the **Montreal Protocol** (1987) phased CFCs out, every country on Earth eventually signed it, and the ozone layer is now slowly healing — on track to recover around the middle of this century. | **Przykład.** W 1985 r. naukowcy opisali wiosenną „**dziurę ozonową**” nad Antarktydą. Świat zareagował wyjątkowo szybko: **Protokół montrealski** (1987) wycofał freony z użycia, podpisały go z czasem wszystkie państwa świata, a warstwa ozonowa powoli się odbudowuje — powinna się zregenerować około połowy tego stulecia. |
+| **Why it matters.** The ozone layer is Earth's sunscreen: without it, UV-B causes more skin cancer and cataracts, damages crops, and harms the plankton at the base of ocean food chains. The CFC story is the standard proof that global environmental treaties *can* work — science identified the cause, industry found substitutes, and the fix is measurably underway. | **Dlaczego to ważne.** Warstwa ozonowa to ziemski filtr przeciwsłoneczny: bez niej promieniowanie UV-B częściej wywołuje raka skóry i zaćmę, uszkadza uprawy i szkodzi planktonowi u podstaw morskich łańcuchów pokarmowych. Historia freonów to sztandarowy dowód, że światowe traktaty środowiskowe *potrafią* działać — nauka wskazała przyczynę, przemysł znalazł zamienniki, a poprawa jest mierzalna. |
+| **Common mistake.** The ozone hole is **not** the same problem as climate change. Ozone loss is about UV reaching the ground; climate change is about heat being trapped. They are related — CFCs happen to also be very potent greenhouse gases, so banning them helped the climate too — but "the hole lets the heat in/out" is wrong on both counts. | **Częsty błąd.** Dziura ozonowa to **nie** to samo co zmiana klimatu. Ubytek ozonu dotyczy promieniowania UV docierającego do powierzchni; zmiana klimatu — zatrzymywania ciepła. Problemy są powiązane — freony są przy okazji bardzo silnymi gazami cieplarnianymi, więc ich zakaz pomógł też klimatowi — ale zdanie „przez dziurę ucieka/wpada ciepło” jest błędne w obie strony. |
+
+## Po polsku — ujęcie podręcznikowe
+
+Freony (chlorofluorowęglowodory, CFC) funkcjonują w polskiej szkole przede wszystkim jako sprawcy dziury ozonowej — sezonowego ścieńczenia warstwy ozonowej (ozonosfery) nad Antarktydą. Podręczniki wymieniają dawne zastosowania freonów (czynniki chłodnicze w lodówkach, gazy nośne w dezodorantach i lakierach, spienianie tworzyw sztucznych) i mechanizm: obojętne chemicznie freony docierają aż do stratosfery, gdzie promieniowanie UV uwalnia z nich chlor niszczący ozon. Skutkiem jest więcej promieniowania UV-B przy powierzchni Ziemi — a więc wzrost ryzyka raka skóry i zaćmy oraz szkody dla planktonu i upraw.
+
+Protokół montrealski z 1987 r., omawiany także na geografii, doprowadził do wycofania freonów i jest podawany jako wzorcowy przykład skutecznej międzynarodowej umowy w ochronie środowiska. Klasyczna pułapka egzaminacyjna: dziura ozonowa i efekt cieplarniany to dwa różne problemy — mylenie ich należy do najczęściej wytykanych błędów na maturze z biologii i geografii.
+
+**Szukaj po polsku:** freony · dziura ozonowa · warstwa ozonowa · protokół montrealski
+
+---
+
+## AP Biology deep dive
+
+**Catalytic destruction.** In the stratosphere, UV photolysis cleaves a C–Cl bond and releases atomic chlorine, which then cycles: Cl + O₃ → ClO + O₂, followed by ClO + O → Cl + O₂. The chlorine atom exits each round unchanged — a true catalyst — which is why a single atom can destroy on the order of 10⁵ ozone molecules before being locked into reservoir compounds. Over Antarctica, ice crystals in polar stratospheric clouds re-activate those reservoirs each spring, concentrating the loss into the seasonal "hole." Molina and Rowland predicted the mechanism in 1974, eleven years before the hole was observed, and shared a Nobel Prize in 1995.
+
+**Why the biology cares.** UV-B damages DNA directly (thymine dimers — the same lesion behind sunburn-driven skin cancers) and suppresses photosynthesis in phytoplankton, the producers supporting most marine food webs. Ozone-layer thinning therefore threatens ecosystems from the bottom up as well as human health from the top down.
+
+**The policy benchmark — with a twist.** The Montreal Protocol (1987) became the first treaty ratified by every UN member state, and atmospheric CFC concentrations are now falling. The twist worth knowing: some replacement gases (HFCs) spare ozone but are strong greenhouse gases, so the 2016 Kigali Amendment now phases *them* down — an example of solving one environmental problem carefully enough not to feed another.
+
+**Where it sits in AP.** Human disruption of ecosystems and global change in **AP Unit 8 (Ecology, Topic 8.7)**, with the DNA-damage mechanism touching **Unit 6 (Gene Expression and Regulation)**.
+
+**See also:** [Climate Change](../climate_change/README.md) · [Greenhouse Gases](../greenhouse_gases/README.md) · [Mitigation](../mitigation/README.md) · [Producer](../producer/README.md)
