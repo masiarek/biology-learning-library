@@ -10,8 +10,6 @@
 | **Why it matters.** Without enzymes, the reactions of metabolism would run far too slowly to keep you alive. Enzymes are also sensitive: too much heat or the wrong pH changes their shape (**denaturation**), and a misshapen enzyme stops working — one reason your body defends its temperature and pH so carefully. | **Dlaczego to ważne.** Bez enzymów reakcje metabolizmu byłyby o wiele za wolne, by utrzymać Cię przy życiu. Enzymy są też wrażliwe: zbyt wysoka temperatura lub złe pH zmieniają ich kształt (**denaturacja**), a odkształcony enzym przestaje działać — dlatego organizm tak pilnuje swojej temperatury i pH. |
 | **Common mistake.** An enzyme is *not* used up and is *not* one of the reactants — and it cannot make an impossible reaction happen. It only speeds up a reaction that could already occur on its own, just too slowly. | **Częsty błąd.** Enzym *nie* zużywa się i *nie* jest jednym z substratów — nie potrafi też wymusić niemożliwej reakcji. Jedynie przyspiesza reakcję, która i tak mogłaby zajść sama, tylko o wiele za wolno. |
 
-**Słówka:** to speed up = przyspieszać · to be used up = zużywać się · shape = kształt · pocket = kieszonka · to fit = pasować · rate (of a reaction) = szybkość (reakcji)
-
 ---
 
 ## AP Biology deep dive

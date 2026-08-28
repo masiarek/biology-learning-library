@@ -10,8 +10,6 @@
 | **Why it matters.** Enzymes only work in a narrow pH range — outside it they denature. Your body uses **buffers** to hold blood pH near 7.4; even a small shift is dangerous. That is homeostasis working at the level of chemistry. | **Dlaczego to ważne.** Enzymy działają tylko w wąskim zakresie pH — poza nim ulegają denaturacji. Organizm używa **buforów**, by utrzymać pH krwi blisko 7,4; nawet niewielkie przesunięcie jest groźne. To homeostaza na poziomie chemii. |
 | **Common mistake.** "Basic" does not mean "safe" and "acidic" does not mean "dangerous" — a strong base like lye (pH 14) burns skin as badly as a strong acid. What matters is how *far* from neutral you are. | **Częsty błąd.** „Zasadowy" nie znaczy „bezpieczny", a „kwasowy" nie znaczy „groźny" — silna zasada, jak ług (pH 14), poparzy skórę równie mocno jak silny kwas. Liczy się to, jak *daleko* roztwór jest od odczynu obojętnego. |
 
-**Słówka:** solution = roztwór · acidic = kwasowy · basic/alkaline = zasadowy · neutral = obojętny · scale = skala · to measure = mierzyć
-
 ---
 
 ## AP Biology deep dive

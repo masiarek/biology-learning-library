@@ -25,10 +25,9 @@ Biologia licealna, termin po terminie, **w dwóch językach**. Każde hasło z k
 Every term page has the same shape:
 
 1. **A two-column table — English | Polski.** Row by row: definition, plain-words restatement, a concrete example, and why the idea matters. The two columns say the same thing, so you can read whichever language is easier today and check yourself against the other. The English column is written at the level of the NC high-school Biology course (the guided-notes level, not AP).
-2. **Słówka** — the handful of everyday words inside the definition (not just the headline term), so the Polish column also works as an English-vocabulary builder.
-3. **An AP Biology deep dive (English).** Below the divider, the same term at Advanced Placement depth: mechanisms, molecular details, classic experiments, and where it sits in the AP Biology course framework. Read it when the top half feels easy — it is enrichment, not required for the class.
+2. **An AP Biology deep dive (English).** Below the divider, the same term at Advanced Placement depth: mechanisms, molecular details, classic experiments, and where it sits in the AP Biology course framework. Read it when the top half feels easy — it is enrichment, not required for the class.
 
-Każda strona haseł ma ten sam układ: dwukolumnowa tabela (angielski | polski) na poziomie liceum, lista słówek, a pod kreską — pogłębienie na poziomie AP Biology (po angielsku).
+Każda strona haseł ma ten sam układ: dwukolumnowa tabela (angielski | polski) na poziomie liceum, a pod kreską — pogłębienie na poziomie AP Biology (po angielsku).
 
 ## Where the term list comes from
 
