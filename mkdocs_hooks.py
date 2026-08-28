@@ -16,6 +16,7 @@ Two jobs:
 
 from __future__ import annotations
 
+import posixpath
 import re
 
 # Unit folders → the label the course itself uses.
@@ -108,3 +109,23 @@ def on_nav(nav, config, files):
     order = {name: i for i, name in enumerate(NAV_ORDER)}
     nav.items.sort(key=lambda it: (order.get(_dir_of(it), len(order)), _dir_of(it)))
     return nav
+
+
+def on_page_markdown(markdown, page, config, files):
+    """Retarget links to the repo-root README at the site's homepage.
+
+    The root README.md is excluded from the build (index.md inlines it), so a
+    unit page's "← All units" link to ``../README.md`` would 404 on the site
+    while working fine on GitHub. Rewriting at build time keeps the source
+    authored for GitHub's file-relative rendering — links to any *folder's*
+    README are left alone.
+    """
+    src_dir = posixpath.dirname(page.file.src_path)
+
+    def repl(m):
+        href = m.group(2)
+        if posixpath.normpath(posixpath.join(src_dir, href)) == "README.md":
+            return m.group(1) + href[: -len("README.md")] + "index.md" + m.group(3)
+        return m.group(0)
+
+    return re.sub(r"(\]\()([^)\s#]*README\.md)([#)])", repl, markdown)
