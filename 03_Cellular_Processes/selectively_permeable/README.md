@@ -1,0 +1,33 @@
+# Selectively Permeable (Semipermeable) / Błona półprzepuszczalna
+
+[← Unit 3 · Cellular Processes](../README.md)
+
+| English | Polski |
+|---|---|
+| **Definition.** A selectively permeable membrane — also called **semipermeable** — is a membrane that lets **some substances cross and blocks others**. The cell membrane is the living example: both names describe the same "choosy border" idea. | **Definicja.** Błona selektywnie przepuszczalna — nazywana też **półprzepuszczalną** — to błona, która **jedne substancje przepuszcza, a inne zatrzymuje**. Żywym przykładem jest błona komórkowa: obie nazwy opisują tę samą ideę „wybrednej granicy”. |
+| **The details.** The membrane's phospholipid bilayer has an oily core, so small nonpolar molecules (O₂, CO₂) slip through easily, water sneaks across slowly, and ions or large polar molecules (glucose, proteins) are blocked — **unless** the cell installs a protein doorway for them. What crosses therefore depends on size, charge, and polarity, plus which channels and carriers the cell chooses to build. Dialysis tubing is a nonliving semipermeable membrane. | **Szczegóły.** Dwuwarstwa fosfolipidowa błony ma „tłuste” wnętrze, więc małe cząsteczki niepolarne (O₂, CO₂) przechodzą łatwo, woda przecieka powoli, a jony i duże cząsteczki polarne (glukoza, białka) są zatrzymywane — **chyba że** komórka zainstaluje dla nich białkowe przejście. O tym, co przechodzi, decydują więc wielkość, ładunek i polarność cząsteczek oraz to, jakie kanały i przenośniki komórka postanowi wbudować. Nieżywym przykładem błony półprzepuszczalnej jest rurka dializacyjna. |
+| **Example.** Your cell membranes admit oxygen freely but hold sodium ions out until a channel opens. A dialysis machine cleans blood through a synthetic selectively permeable membrane: small wastes pass into the rinsing fluid, blood cells and proteins stay. | **Przykład.** Błony Twoich komórek swobodnie wpuszczają tlen, ale trzymają jony sodu na zewnątrz, dopóki nie otworzy się kanał. Aparat do dializy oczyszcza krew przez syntetyczną błonę selektywnie przepuszczalną: drobne zbędne produkty przenikają do płynu płuczącego, a krwinki i białka zostają. |
+| **Why it matters.** Selective permeability is the whole reason "inside" differs from "outside" — it makes gradients, osmosis, and membrane transport possible at all. No selectivity, no controlled chemistry, no cell. It is arguably the membrane's defining job. | **Dlaczego to ważne.** Wybiórcza przepuszczalność to jedyny powód, dla którego „wewnątrz” różni się od „na zewnątrz” — bez niej nie byłoby gradientów, osmozy ani transportu błonowego. Bez selektywności nie ma kontrolowanej chemii, a więc nie ma komórki. To bodaj najważniejsze zadanie błony. |
+| **Common mistake.** A selectively permeable membrane is not a strainer with one hole size — it "chooses" by chemistry (size, charge, polarity) and can **change** what it admits by opening gates or adding carriers. Strictly speaking, *semipermeable* describes a simpler filter (solvent only, like dialysis film), while a living membrane is *selectively* permeable — but at school level the two names are used interchangeably. | **Częsty błąd.** Błona selektywnie przepuszczalna to nie sitko o jednym rozmiarze oczek — „wybiera” na podstawie chemii (wielkość, ładunek, polarność) i potrafi **zmieniać**, co wpuszcza, otwierając bramki lub dobudowując przenośniki. Ściśle biorąc, *półprzepuszczalna* to prostszy filtr (tylko rozpuszczalnik, jak błona dializacyjna), a błona żywa jest przepuszczalna *selektywnie* — ale na poziomie szkolnym obu nazw używa się zamiennie. |
+
+## Po polsku — ujęcie podręcznikowe
+
+W polskich podręcznikach spotyka się oba określenia: „błona półprzepuszczalna” i „błona selektywnie przepuszczalna”. Ściślej biorąc, błona półprzepuszczalna (jak celofan czy błona dializacyjna) przepuszcza praktycznie tylko rozpuszczalnik — i takim modelem posługujemy się przy omawianiu osmozy — natomiast żywa błona komórkowa jest przepuszczalna wybiórczo: o tym, co przechodzi, decydują właściwości cząsteczek oraz obecność białek kanałowych i przenośnikowych. Budowę błony opisuje model płynnej mozaiki: dwuwarstwa fosfolipidowa z zanurzonymi w niej białkami, przy czym hydrofobowe wnętrze dwuwarstwy stanowi barierę dla jonów i cząsteczek polarnych.
+
+Motywy maturalne: uszeregowanie substancji według łatwości przenikania przez błonę (gazy i małe cząsteczki niepolarne najłatwiej, jony i duże cząsteczki polarne tylko przez białka), rola błony w utrzymywaniu składu wnętrza komórki oraz zastosowanie błon półprzepuszczalnych w dializie i w szkolnych doświadczeniach osmotycznych.
+
+**Szukaj po polsku:** błona półprzepuszczalna · błona selektywnie przepuszczalna · model płynnej mozaiki · przepuszczalność błony komórkowej
+
+---
+
+## AP Biology deep dive
+
+**Fluid mosaic, functional filter.** The membrane is a two-dimensional fluid of phospholipids studded with proteins — Singer and Nicolson's fluid mosaic model. Selectivity emerges in layers: the bare bilayer passes small nonpolar molecules and modest amounts of water; integral channel and carrier proteins add specific, saturable, sometimes gated routes; and cholesterol tunes fluidity so the barrier works across temperatures. The measured permeability hierarchy (nonpolar > small polar > large polar > ions) is the single most reliable AP membrane question.
+
+**Selectivity creates compartments.** Every organelle repeats the trick: the inner mitochondrial membrane's extreme impermeability to H⁺ is precisely what lets a proton gradient exist for chemiosmosis; the lysosome membrane holds a pH-5 interior in a pH-7 cell. Compartmentalization — different chemistries in adjacent spaces — is just selective permeability applied wall by wall, and it is the organizing theme of AP Unit 2.
+
+**When selectivity is engineered or breached.** Dialysis membranes select by pore size alone — good enough to salvage kidney failure. Cells regulate theirs dynamically: aquaporin insertion under ADH control changes water permeability on demand. And breaching selectivity is lethal by design — pore-forming toxins and the immune system's membrane attack complex both kill cells simply by punching indiscriminate holes.
+
+**Where it sits in AP.** Membrane structure and selective permeability are Topics 2.4–2.5 of **AP Unit 2 (Cell Structure and Function)**, the foundation everything from tonicity to chemiosmosis builds on.
+
+**See also:** [Osmosis](../osmosis/README.md) · [Diffusion](../diffusion/README.md) · [Facilitated Diffusion](../facilitated_diffusion/README.md) · [Passive Transport](../passive_transport/README.md) · [Active Transport](../active_transport/README.md)
