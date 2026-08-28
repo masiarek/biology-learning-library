@@ -46,6 +46,7 @@ NAME_OVERRIDES = {
     "genetically_modified_organism": "Genetically Modified Organism (GMO)",
     "chlorofluorocarbons": "Chlorofluorocarbons (CFCs)",
     "huntingtons_disease": "Huntington's Disease",
+    "sex_linked_traits": "Sex-Linked Traits",
 }
 
 # Word-level casing fixes applied after a naive title-case.
@@ -87,7 +88,7 @@ def _pretty(name: str) -> str:
 
 
 def _dir_of(item) -> str:
-    """On-disk name of a nav item: file name for pages, folder name for sections."""
+    """TOP-LEVEL on-disk name of a nav item — used only for root nav ordering."""
     if hasattr(item, "file") and item.file is not None:
         return item.file.src_path.split("/")[0]
     for child in getattr(item, "children", None) or []:
@@ -97,11 +98,27 @@ def _dir_of(item) -> str:
     return ""
 
 
-def _relabel(items) -> None:
+def _first_src(item) -> str:
+    """src_path of the first descendant page of a nav item."""
+    if hasattr(item, "file") and item.file is not None:
+        return item.file.src_path
+    for child in getattr(item, "children", None) or []:
+        got = _first_src(child)
+        if got:
+            return got
+    return ""
+
+
+def _relabel(items, depth: int = 0) -> None:
+    # A section's own folder is the DEPTH-th segment of any descendant page's
+    # path — labeling from segment 0 at every level is how all 37 term entries
+    # inside a unit once read as the unit's name.
     for item in items:
         if getattr(item, "is_section", False):
-            item.title = _pretty(_dir_of(item))
-            _relabel(item.children)
+            parts = _first_src(item).split("/")
+            if depth < len(parts) - 1:
+                item.title = _pretty(parts[depth])
+            _relabel(item.children, depth + 1)
 
 
 def on_nav(nav, config, files):
