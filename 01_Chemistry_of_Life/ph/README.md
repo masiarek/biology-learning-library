@@ -10,6 +10,14 @@
 | **Why it matters.** Enzymes only work in a narrow pH range — outside it they denature. Your body uses **buffers** to hold blood pH near 7.4; even a small shift is dangerous. That is homeostasis working at the level of chemistry. | **Dlaczego to ważne.** Enzymy działają tylko w wąskim zakresie pH — poza nim ulegają denaturacji. Organizm używa **buforów**, by utrzymać pH krwi blisko 7,4; nawet niewielkie przesunięcie jest groźne. To homeostaza na poziomie chemii. |
 | **Common mistake.** "Basic" does not mean "safe" and "acidic" does not mean "dangerous" — a strong base like lye (pH 14) burns skin as badly as a strong acid. What matters is how *far* from neutral you are. | **Częsty błąd.** „Zasadowy" nie znaczy „bezpieczny", a „kwasowy" nie znaczy „groźny" — silna zasada, jak ług (pH 14), poparzy skórę równie mocno jak silny kwas. Liczy się to, jak *daleko* roztwór jest od odczynu obojętnego. |
 
+## Po polsku — ujęcie podręcznikowe
+
+pH, czyli odczyn roztworu, to wielkość opisująca stężenie jonów wodorowych; w szkole zapisuje się ją jako skalę od 0 do 14. Roztwory o pH poniżej 7 mają odczyn kwasowy, pH równe 7 to odczyn obojętny, a powyżej 7 — zasadowy. Do szybkiego badania odczynu służą wskaźniki znane z polskich lekcji chemii: papierek uniwersalny, oranż metylowy czy fenoloftaleina (barwiąca się malinowo w roztworach zasadowych) — biologia korzysta z tej samej klasyki wprost.
+
+W biologii odczyn jest ważny, bo od pH zależy aktywność enzymów i przebieg procesów życiowych: sok żołądkowy ma pH około 1,5–2, krew człowieka 7,35–7,45, a stałość tego odczynu utrzymują bufory (między innymi bufor węglanowy i fosforanowy). Warto pamiętać, że skala pH jest logarytmiczna — zmiana o jedną jednostkę to dziesięciokrotna zmiana stężenia jonów H⁺, więc „niewielkie” przesunięcie pH krwi wcale nie jest niewielkie.
+
+**Szukaj po polsku:** skala pH · odczyn roztworu · wskaźniki pH · bufor węglanowy
+
 ---
 
 ## AP Biology deep dive

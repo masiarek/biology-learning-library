@@ -10,6 +10,14 @@
 | **Why it matters.** Without enzymes, the reactions of metabolism would run far too slowly to keep you alive. Enzymes are also sensitive: too much heat or the wrong pH changes their shape (**denaturation**), and a misshapen enzyme stops working — one reason your body defends its temperature and pH so carefully. | **Dlaczego to ważne.** Bez enzymów reakcje metabolizmu byłyby o wiele za wolne, by utrzymać Cię przy życiu. Enzymy są też wrażliwe: zbyt wysoka temperatura lub złe pH zmieniają ich kształt (**denaturacja**), a odkształcony enzym przestaje działać — dlatego organizm tak pilnuje swojej temperatury i pH. |
 | **Common mistake.** An enzyme is *not* used up and is *not* one of the reactants — and it cannot make an impossible reaction happen. It only speeds up a reaction that could already occur on its own, just too slowly. | **Częsty błąd.** Enzym *nie* zużywa się i *nie* jest jednym z substratów — nie potrafi też wymusić niemożliwej reakcji. Jedynie przyspiesza reakcję, która i tak mogłaby zajść sama, tylko o wiele za wolno. |
 
+## Po polsku — ujęcie podręcznikowe
+
+Enzymy to biokatalizatory — najczęściej białka, które przyspieszają reakcje biochemiczne, obniżając ich energię aktywacji. Polskie podręczniki podkreślają trzy cechy enzymów: działają w niewielkich ilościach, nie zużywają się w reakcji i są swoiste (specyficzne) — dany enzym katalizuje zwykle jedną reakcję albo jeden typ reakcji. Cząsteczka przekształcana przez enzym to substrat, a miejsce jej wiązania to centrum aktywne; przejściowo powstaje kompleks enzym–substrat, który rozpada się na enzym i produkty, po czym wolny enzym wiąże kolejne cząsteczki.
+
+Nazwy enzymów tworzy się zwykle z końcówką „-aza”, często od nazwy substratu: amylaza, laktaza, proteaza, lipaza. Aktywność enzymu zależy od temperatury i pH — dla większości enzymów człowieka optimum to około 37 °C i odczyn bliski obojętnemu (klasyczny wyjątek: pepsyna z żołądka, działająca przy pH ≈ 2). W zbyt wysokiej temperaturze lub skrajnym pH enzym ulega denaturacji, czyli trwale traci strukturę przestrzenną i przestaje działać. Na sprawdzianach i maturze często pojawia się wykres zależności szybkości reakcji enzymatycznej od temperatury lub pH — warto umieć go opisać.
+
+**Szukaj po polsku:** enzymy · biokatalizatory · centrum aktywne · swoistość enzymów
+
 ---
 
 ## AP Biology deep dive
