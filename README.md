@@ -4,7 +4,7 @@ High-school biology, term by term, **in two languages**. Every keyword from the 
 
 Biologia licealna, termin po terminie, **w dwóch językach**. Każde hasło z kursowej listy słownictwa ma własną stronę: to samo wyjaśnienie obok siebie **po angielsku i po polsku** na poziomie licealnego kursu biologii w Karolinie Północnej (nie-AP), a poniżej — **rozszerzenie na poziomie AP Biology** dla każdego, kto chce wiedzieć więcej.
 
-**Browse the site:** <https://masiarek.github.io/biology-learning-library/> · **Full A–Z index:** [GLOSSARY.md](GLOSSARY.md) · **Which standards apply?** [STANDARDS.md](STANDARDS.md)
+**Browse the site:** <https://masiarek.github.io/biology-learning-library/> · **Full A–Z index:** [GLOSSARY.md](GLOSSARY.md) · **Which standards apply?** [STANDARDS.md](STANDARDS.md) · **Objective-by-objective map:** [NC_STANDARDS.md](NC_STANDARDS.md)
 
 ## The seven units / Siedem działów
 

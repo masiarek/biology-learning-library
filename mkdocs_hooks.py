@@ -65,6 +65,7 @@ NAV_ORDER = [
     "index.md",
     "GLOSSARY.md",
     "STANDARDS.md",
+    "NC_STANDARDS.md",
     "01_Chemistry_of_Life",
     "02_Cells_as_Living_Systems",
     "03_Cellular_Processes",
