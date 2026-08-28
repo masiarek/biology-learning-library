@@ -1,0 +1,33 @@
+# Binary Fission / Podział podwójny (prosty)
+
+[← Unit 4 · DNA and Cell Division](../README.md)
+
+| English | Polski |
+|---|---|
+| **Definition.** Binary fission is how **prokaryotes** (bacteria and archaea) reproduce: the cell copies its single circular chromosome and splits into two identical cells. It is asexual reproduction at its simplest. | **Definicja.** Podział podwójny (prosty) to sposób rozmnażania **prokariontów** (bakterii i archeonów): komórka kopiuje swój pojedynczy, kolisty chromosom i dzieli się na dwie identyczne komórki. To rozmnażanie bezpłciowe w najprostszym wydaniu. |
+| **How it works.** Replication starts at one spot (the origin) on the circular DNA and runs both ways around the loop. The two finished copies attach to the membrane and move apart as the cell elongates; then the membrane and wall pinch inward across the middle (a septum), cutting the cell in two. No nucleus, no spindle, no mitosis phases — there is nothing like a nuclear envelope to dismantle. | **Jak działa.** Replikacja rusza z jednego miejsca (origin) kolistego DNA i biegnie w obie strony pętli. Dwie gotowe kopie przyczepiają się do błony i oddalają od siebie, gdy komórka się wydłuża; potem błona i ściana wpuklają się pośrodku (przegroda), przecinając komórkę na dwie. Bez jądra, bez wrzeciona, bez faz mitozy — nie ma tu nawet otoczki jądrowej do rozmontowania. |
+| **Example.** In warm, nutrient-rich broth *E. coli* divides about every 20 minutes: one cell → 8 in an hour, over a million in 7 hours, billions overnight. That is why food left warm spoils fast and why infections can bloom overnight. | **Przykład.** W ciepłej, bogatej w składniki pożywce *E. coli* dzieli się mniej więcej co 20 minut: jedna komórka → 8 po godzinie, ponad milion po 7 godzinach, miliardy przez noc. Dlatego jedzenie zostawione w cieple szybko się psuje, a zakażenie potrafi rozkwitnąć w jedną noc. |
+| **Why it matters.** Binary fission explains bacterial speed — the exponential growth behind infections, food spoilage and biotech fermenters alike. Fast generations also mean fast **evolution**: a chance resistance mutation can sweep through a bacterial population in days, which is why finishing a course of antibiotics matters. | **Dlaczego to ważne.** Podział prosty wyjaśnia tempo bakterii — wzrost wykładniczy stojący za zakażeniami, psuciem żywności i pracą fermentorów w biotechnologii. Szybkie pokolenia to też szybka **ewolucja**: przypadkowa mutacja oporności może opanować populację bakterii w kilka dni — dlatego tak ważne jest dokończenie kuracji antybiotykowej. |
+| **Common mistake.** Do not call it mitosis: bacteria have no nucleus, no chromatin-to-chromosome condensation and no spindle, so mitosis is impossible for them. Note the scope difference too: for a bacterium, binary fission *is* reproduction of the whole organism; your mitosis mostly serves growth and repair, not making new people. | **Częsty błąd.** Nie nazywaj tego mitozą: bakterie nie mają jądra, kondensacji chromatyny w chromosomy ani wrzeciona, więc mitoza jest u nich niemożliwa. Zauważ też różnicę skali: dla bakterii podział prosty *jest* rozmnażaniem całego organizmu; Twoje mitozy służą głównie wzrostowi i naprawie, a nie tworzeniu nowych ludzi. |
+
+## Po polsku — ujęcie podręcznikowe
+
+W polskich podręcznikach spotkasz kilka nazw tego samego procesu: podział prosty, podział podwójny, przewężenie — wszystkie opisują bezpłciowe rozmnażanie bakterii. Materiał genetyczny bakterii to pojedynczy, kolisty chromosom bakteryjny zwany genoforem lub nukleoidem, leżący wprost w cytoplazmie (brak jądra komórkowego); obok niego komórka może nieść małe koliste plazmidy, przekazywane potomstwu i między komórkami. Podręczniki podkreślają, że u prokariontów nie zachodzi mitoza ani mejoza — to częsta pułapka testowa — a tempo podziałów w sprzyjających warunkach (np. co 20 minut) ilustruje się wykresem wzrostu wykładniczego.
+
+Kontekst szkolny obejmuje też zjawiska powiązane: koniugację bakterii jako proces płciowy (wymiana plazmidów, bez rozmnażania!), przetrwalniki jako formy przetrwania, oraz narastanie antybiotykooporności — maturalne zadania każą łączyć krótki czas generacji z szybkim rozprzestrzenianiem się mutacji oporności.
+
+**Szukaj po polsku:** podział prosty bakterii · genofor nukleoid · rozmnażanie bakterii · antybiotykooporność bakterii
+
+---
+
+## AP Biology deep dive
+
+**Machinery, minimalist but real.** Replication begins at a single origin (*oriC*) and proceeds bidirectionally; the two origins are actively moved toward opposite cell poles as replication continues (partitioning proteins do measurable work — it is not pure passive drift). Division is organized by **FtsZ**, a GTPase that polymerizes into a contractile "Z ring" at midcell and recruits the septum-building machinery. FtsZ is homologous to eukaryotic **tubulin** — the spindle's building block — a molecular fossil linking prokaryotic division to the eukaryotic cytoskeleton (mitochondria and chloroplasts, tellingly, still divide by an FtsZ-based fission of their own, more endosymbiosis evidence).
+
+**One replication, one division, overlapping in time.** With a single origin, prokaryotes need no S/G2/M partition: fast-growing *E. coli* even begins a second round of replication before the first division finishes, so daughters inherit chromosomes already partly copied — a scheduling trick impossible under the eukaryotic "complete S, then divide" checkpoint regime. The eukaryotic cell cycle's phases and checkpoints are best understood as the extra bookkeeping demanded by many linear chromosomes and a nuclear envelope.
+
+**Exponential growth as an evolution engine.** Generation times of minutes and populations of billions make bacteria evolution's fastest theater: rare spontaneous resistance mutants exist *before* the antibiotic arrives (Luria–Delbrück), and treatment simply selects them. Add horizontal transfer of resistance plasmids by conjugation, and one lesson follows for AP and for medicine: bacterial populations should be modeled as evolving systems, not fixed targets.
+
+**Where it sits in AP.** Binary fission is the prokaryotic contrast case in the cell-cycle story of **AP Unit 4 (Cell Communication and Cell Cycle)**; its evolutionary consequences (resistance, Luria–Delbrück logic) belong to **Unit 7 (Natural Selection)**, with the FtsZ–tubulin and organelle-fission links supporting **Unit 2 (Cell Structure and Function)**.
+
+**See also:** [Asexual Reproduction](../asexual_reproduction/README.md) · [Mitosis](../mitosis/README.md) · [Chromosome](../chromosome/README.md) · [Cell Cycle](../cell_cycle/README.md) · [DNA Replication](../dna_replication/README.md)

@@ -1,0 +1,33 @@
+# Cancer / Nowotwór złośliwy (rak)
+
+[← Unit 4 · DNA and Cell Division](../README.md)
+
+| English | Polski |
+|---|---|
+| **Definition.** Cancer is the disease of **uncontrolled cell division**: cells that ignore the cell cycle's stop signals, form malignant tumors, invade tissue and can spread through the body. | **Definicja.** Nowotwór złośliwy to choroba **niekontrolowanych podziałów komórkowych**: komórki ignorują sygnały stopu cyklu komórkowego, tworzą złośliwe guzy, naciekają tkanki i mogą rozsiewać się po organizmie. |
+| **How it works.** Cancer starts with **mutations** piling up in the genes that control division — think of a car with the accelerator stuck down (overactive "go" genes) *and* the brakes cut (broken "stop" genes). Such a cell divides without limit, dodges the body's self-destruct order, calls in its own blood supply, and may finally metastasize. It usually takes **several** mutations, which is why cancer risk rises with age. | **Jak działa.** Nowotwór zaczyna się od **mutacji** kumulujących się w genach sterujących podziałami — jak samochód z zablokowanym gazem (nadaktywne geny „jedź”) *i* przeciętymi hamulcami (zepsute geny „stop”). Taka komórka dzieli się bez ograniczeń, wymyka się komórkowej samodestrukcji, ściąga sobie własne ukrwienie, a w końcu może dać przerzuty. Zwykle potrzeba **kilku** mutacji — dlatego ryzyko rośnie z wiekiem. |
+| **Example.** Tobacco smoke mutagens cause most lung cancer; UV light drives skin cancer; leukemia is a cancer of blood-forming cells with no solid lump at all. Some cancers are triggered by viruses — the HPV vaccine prevents most cervical cancer. | **Przykład.** Mutageny z dymu tytoniowego odpowiadają za większość raka płuca; promieniowanie UV napędza nowotwory skóry; białaczka to nowotwór komórek krwiotwórczych — zupełnie bez litego guza. Część nowotworów wywołują wirusy — szczepionka przeciw HPV zapobiega większości przypadków raka szyjki macicy. |
+| **Why it matters.** Cancer is one of the leading causes of death worldwide — and one where biology knowledge pays off directly: no smoking, sunscreen, vaccines and screening tests all attack the mutation-accumulation story you learn in this unit. Treatments (chemo, radiation) mostly target dividing cells, which is also why they cause side effects in fast-dividing healthy tissue (hair, gut, blood). | **Dlaczego to ważne.** Nowotwory złośliwe to jedna z głównych przyczyn zgonów na świecie — i dziedzina, w której wiedza biologiczna zwraca się wprost: niepalenie, kremy z filtrem, szczepienia i badania przesiewowe uderzają dokładnie w opisany tu mechanizm kumulacji mutacji. Terapie (chemio-, radioterapia) celują głównie w komórki dzielące się — dlatego dają skutki uboczne w szybko dzielących się zdrowych tkankach (włosy, jelito, krew). |
+| **Common mistake.** Cancer is not one disease (there are hundreds, each with its own mutations), it is **not contagious**, and a single mutation is usually not enough. Also: not every tumor is cancer — benign tumors are not. | **Częsty błąd.** Nowotwór złośliwy to nie jedna choroba (jest ich setki, każda z własnymi mutacjami), **nie jest zaraźliwy**, a jedna mutacja zwykle nie wystarcza. I nie każdy guz to rak — guzy łagodne nim nie są. |
+
+## Po polsku — ujęcie podręcznikowe
+
+Po polsku warto zacząć od porządków językowych: potocznie „rak” bywa używany jako synonim każdego nowotworu złośliwego, ale w terminologii medycznej rak (carcinoma) to nowotwór złośliwy pochodzenia nabłonkowego; obok niego istnieją mięsaki, białaczki, chłoniaki czy glejaki. Podręczniki opisują transformację nowotworową jako skutek mutacji w genach kontrolujących cykl komórkowy: protoonkogeny zmieniają się w onkogeny („wciśnięty gaz”), a geny supresorowe (antyonkogeny, jak gen białka p53) przestają działać („zepsute hamulce”). Czynniki rakotwórcze — kancerogeny — dzieli się na fizyczne (UV, promieniowanie jonizujące), chemiczne (dym tytoniowy, azbest) i biologiczne (wirusy HPV i HBV, bakteria Helicobacter pylori).
+
+Motywy szkolno-maturalne: związek nowotworów z cyklem komórkowym i apoptozą, rola mutacji somatycznych, oraz profilaktyka — w Polsce programy przesiewowe obejmują cytologię (rak szyjki macicy), mammografię (rak piersi) i kolonoskopię (rak jelita grubego), a kalendarz szczepień zawiera szczepionkę przeciw HPV. Typowe polecenie: wyjaśnić, dlaczego nowotwór rozwija się latami albo dlaczego chemioterapia uszkadza także zdrowe tkanki.
+
+**Szukaj po polsku:** nowotwór złośliwy · onkogeny i geny supresorowe · kancerogeny · profilaktyka nowotworów badania przesiewowe
+
+---
+
+## AP Biology deep dive
+
+**Two gene classes, opposite logic.** **Proto-oncogenes** encode normal "go" components — growth-factor receptors, Ras, cyclins. One overactivating mutation in one allele makes an **oncogene**: dominant, gain-of-function (Ras is mutated in ~30% of human cancers, locked in its GTP-bound "on" state). **Tumor suppressors** encode brakes — p53, Rb, DNA-repair genes — and require **both** alleles lost: recessive at the cell level, which explains inherited cancer syndromes (one broken copy from a parent means every cell is one hit from losing the brake).
+
+**p53, the guardian of the genome.** At the G1 checkpoint, p53 responds to DNA damage by pausing the cycle, activating repair, and — when damage is irreparable — commanding **apoptosis**. More than half of human cancers carry p53 mutations; without it, damaged cells survive, divide and accumulate further mutations, accelerating the whole multi-hit process. Rb works the parallel brake: it sits on the transcription factors needed for S phase until proper cyclin–CDK signaling releases them.
+
+**The hallmarks.** A full malignancy typically assembles: self-sufficient growth signaling, insensitivity to anti-growth signals, evasion of apoptosis, **limitless replication** (telomerase reactivated), sustained **angiogenesis**, and invasion/metastasis — plus genome instability feeding all of the above. Chemotherapy and radiation exploit the one shared property, rapid division; modern targeted drugs (kinase inhibitors, anti-VEGF, immunotherapy) instead attack specific hallmark machinery identified by sequencing the tumor.
+
+**Where it sits in AP.** Cancer as cell-cycle misregulation is Topic 4.7 of **AP Unit 4 (Cell Communication and Cell Cycle)**; oncogene and tumor-suppressor mutations tie into **Unit 6 (Gene Expression and Regulation)**.
+
+**See also:** [Tumor](../tumor/README.md) · [Benign](../benign/README.md) · [Malignant](../malignant/README.md) · [Metastasize](../metastasize/README.md) · [Cell Cycle](../cell_cycle/README.md) · [Mutation](../mutation/README.md)
