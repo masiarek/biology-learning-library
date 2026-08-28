@@ -1,0 +1,110 @@
+"""Build-time fixes that would otherwise cost a pinned plugin dependency.
+
+MkDocs derives a sidebar *section* label from the folder name on disk, so
+`01_Chemistry_of_Life/` would read as "01 Chemistry Of Life" and `ph/` as "Ph".
+The numeric prefix sets reading order in a file listing; it should not be
+visible in the nav, and biology's acronyms (pH, DNA, mRNA, ATP…) have a fixed
+casing no naive title-caser gets right.
+
+Two jobs:
+
+1. **Clean section labels** — unit folders get their full course names, keyword
+   folders get title-cased names with acronym fixups.
+2. **Order the root nav** — ``NAV_ORDER`` pins the reading order of the
+   top-level entries; anything unlisted keeps its alphabetical slot after them.
+"""
+
+from __future__ import annotations
+
+import re
+
+# Unit folders → the label the course itself uses.
+SECTION_LABELS = {
+    "01_Chemistry_of_Life": "Unit 1 · The Chemistry of Life",
+    "02_Cells_as_Living_Systems": "Unit 2 · Cells as Living Systems",
+    "03_Cellular_Processes": "Unit 3 · Cellular Processes",
+    "04_DNA_and_Cell_Division": "Unit 4 · DNA and Cell Division",
+    "05_Genetics_and_Biotechnology": "Unit 5 · Genetics and Biotechnology",
+    "06_Evolution_and_Diversity_of_Life": "Unit 6 · Evolution and Diversity of Life",
+    "07_Ecological_Principles": "Unit 7 · Ecological Principles",
+}
+
+# Whole-folder-name overrides for keyword slugs the word-level pass can't fix.
+NAME_OVERRIDES = {
+    "ph": "pH",
+    "atp": "ATP",
+    "dna": "DNA",
+    "mrna": "mRNA",
+    "rrna": "rRNA",
+    "trna": "tRNA",
+    "crispr": "CRISPR",
+    "dna_replication": "DNA Replication",
+    "dna_fingerprint": "DNA Fingerprint",
+    "recombinant_dna": "Recombinant DNA",
+    "down_syndrome": "Down Syndrome (Trisomy 21)",
+    "genetically_modified_organism": "Genetically Modified Organism (GMO)",
+    "chlorofluorocarbons": "Chlorofluorocarbons (CFCs)",
+    "huntingtons_disease": "Huntington's Disease",
+}
+
+# Word-level casing fixes applied after a naive title-case.
+FIXUPS = {
+    "And": "and",
+    "Of": "of",
+    "Vs": "vs",
+    "In": "in",
+    "The": "the",
+    "Non": "Non-",
+}
+
+# Reading order of the root nav, by on-disk name. Unlisted entries sort
+# alphabetically after these.
+NAV_ORDER = [
+    "index.md",
+    "GLOSSARY.md",
+    "STANDARDS.md",
+    "01_Chemistry_of_Life",
+    "02_Cells_as_Living_Systems",
+    "03_Cellular_Processes",
+    "04_DNA_and_Cell_Division",
+    "05_Genetics_and_Biotechnology",
+    "06_Evolution_and_Diversity_of_Life",
+    "07_Ecological_Principles",
+]
+
+
+def _pretty(name: str) -> str:
+    if name in SECTION_LABELS:
+        return SECTION_LABELS[name]
+    if name in NAME_OVERRIDES:
+        return NAME_OVERRIDES[name]
+    name = re.sub(r"^\d+_", "", name)
+    words = [w.capitalize() for w in name.split("_")]
+    words = [FIXUPS.get(w, w) for w in words]
+    label = " ".join(words)
+    return label.replace("- ", "-")
+
+
+def _dir_of(item) -> str:
+    """On-disk name of a nav item: file name for pages, folder name for sections."""
+    if hasattr(item, "file") and item.file is not None:
+        return item.file.src_path.split("/")[0]
+    for child in getattr(item, "children", None) or []:
+        got = _dir_of(child)
+        if got:
+            return got
+    return ""
+
+
+def _relabel(items) -> None:
+    for item in items:
+        if getattr(item, "is_section", False):
+            item.title = _pretty(_dir_of(item))
+            _relabel(item.children)
+
+
+def on_nav(nav, config, files):
+    _relabel(nav.items)
+    order = {name: i for i, name in enumerate(NAV_ORDER)}
+    nav.items.sort(key=lambda it: (order.get(_dir_of(it), len(order)), _dir_of(it)))
+    return nav

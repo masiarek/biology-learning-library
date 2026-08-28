@@ -1,0 +1,9 @@
+# MkDocs build output — regenerated on every deploy, never committed.
+site/
+
+# Python tooling
+__pycache__/
+.venv/
+
+# macOS
+.DS_Store
