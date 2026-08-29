@@ -30,4 +30,11 @@ Doświadczenie numer jeden polskiej szkoły to **próba jodowa**: płyn Lugola (
 
 **Where it sits in AP.** Polysaccharide structure is **Unit 1 (Chemistry of Life)**; starch as the product sink of photosynthesis and the fuel of respiration belongs to **Unit 3 (Cellular Energetics)**, with the gibberellin story touching **Unit 4 (Cell Communication and Cell Cycle)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, see the molecule. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Carbohydrates](https://openstax.org/books/biology-2e/pages/3-2-carbohydrates)** — OpenStax *Biology 2e* (free, CC BY). Starch beside glycogen and cellulose — the comparison is what makes each one make sense.
+- **[Alpha-amylase](https://pdb101.rcsb.org/motm/74)** — RCSB PDB-101, *Molecule of the Month*. The enzyme that starts breaking starch down in your mouth. Chew plain bread long enough and you can taste it happening.
+
 **See also:** [Glycogen](../glycogen/README.md) · [Cellulose](../cellulose/README.md) · [Glucose](../glucose/README.md) · [Polysaccharide](../polysaccharide/README.md) · [Carbohydrate](../carbohydrate/README.md)

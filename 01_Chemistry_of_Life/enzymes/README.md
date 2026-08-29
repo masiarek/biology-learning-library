@@ -30,4 +30,12 @@ Nazwy enzymów tworzy się zwykle z końcówką „-aza”, często od nazwy sub
 
 **Where it sits in AP.** Enzyme structure, catalysis, and regulation are Topics 3.1–3.3 of **AP Unit 3 (Cellular Energetics)**, building directly on protein structure from **Unit 1**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, practice it, see the molecule. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Enzymes](https://openstax.org/books/biology-2e/pages/6-5-enzymes)** — OpenStax *Biology 2e* (free, CC BY). The full textbook section: active site, induced fit, cofactors, inhibition, and what temperature and pH do.
+- **[Enzymes and the active site](https://www.khanacademy.org/science/biology/energy-and-enzymes/introduction-to-enzymes/a/enzymes-and-the-active-site)** — Khan Academy. Article plus practice questions — the practice is the part worth doing.
+- **[Lysozyme](https://pdb101.rcsb.org/motm/9)** — RCSB PDB-101, *Molecule of the Month*. In your tears and saliva, cutting bacterial cell walls. The first enzyme structure ever solved, and still the clearest one to look at.
+
 **See also:** [Activation Energy](../activation_energy/README.md) · [Active Site](../active_site/README.md) · [Substrate](../substrate/README.md) · [Denatured Enzyme](../denatured_enzyme/README.md) · [Catalyst](../catalyst/README.md)

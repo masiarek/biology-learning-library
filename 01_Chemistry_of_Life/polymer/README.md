@@ -30,4 +30,11 @@ Utrwalone szkolne przyporządkowanie brzmi: monosacharydy → polisacharydy, ami
 
 **Where it sits in AP.** Polymer assembly and diversity are the core of **Unit 1 (Chemistry of Life)**; template-directed polymer synthesis structures **Unit 6 (Gene Expression and Regulation)**, and biochemical universality supports **Unit 7 (Natural Selection)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, practice it. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Synthesis of Biological Macromolecules](https://openstax.org/books/biology-2e/pages/3-1-synthesis-of-biological-macromolecules)** — OpenStax *Biology 2e* (free, CC BY). How polymers are built and taken apart — one pair of reactions covering all four families.
+- **[Introduction to macromolecules](https://www.khanacademy.org/science/biology/macromolecules/introduction-to-macromolecules/a/introduction-to-macromolecules)** — Khan Academy. The same pattern shown across carbohydrates, lipids, proteins and nucleic acids, with practice.
+
 **See also:** [Monomer](../monomer/README.md) · [Polysaccharide](../polysaccharide/README.md) · [Polypeptide](../polypeptide/README.md) · [Nucleic Acid](../nucleic_acid/README.md) · [Protein](../protein/README.md)

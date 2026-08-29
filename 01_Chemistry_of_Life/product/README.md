@@ -30,4 +30,11 @@ Na biologii produkty śledzi się przede wszystkim w dwóch wielkich równaniach
 
 **Where it sits in AP.** Reaction accounting and energy diagrams underpin **Unit 3 (Cellular Energetics)** — photosynthesis and respiration especially — with the matter-conservation foundations laid in **Unit 1 (Chemistry of Life)** and matter cycling revisited in **Unit 8 (Ecology)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, practice it. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Enzymes](https://openstax.org/books/biology-2e/pages/6-5-enzymes)** — OpenStax *Biology 2e* (free, CC BY). Substrate to product through an active site, with the energy diagram underneath.
+- **[Free energy: endergonic vs exergonic reactions](https://www.khanacademy.org/science/biology/energy-and-enzymes/free-energy-tutorial/a/gibbs-free-energy)** — Khan Academy. Why some reactions run to product on their own and others must be pushed — with practice.
+
 **See also:** [Reactant](../reactant/README.md) · [Substrate](../substrate/README.md) · [Enzymes](../enzymes/README.md) · [Metabolism](../metabolism/README.md) · [Exothermic](../exothermic/README.md)

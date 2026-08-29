@@ -30,4 +30,11 @@ Ten podział spina się w biologii z podziałem metabolizmu: reakcje **anabolicz
 
 **Where it sits in AP.** Free energy, coupling, and photosynthesis are the spine of **Unit 3 (Cellular Energetics)**; the ΔG concept builds on the chemistry footing of **Unit 1 (Chemistry of Life)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, practice it. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[The Laws of Thermodynamics](https://openstax.org/books/biology-2e/pages/6-3-the-laws-of-thermodynamics)** — OpenStax *Biology 2e* (free, CC BY). The thermodynamics behind the word, without which "absorbs energy" is just a label.
+- **[Free energy: endergonic vs exergonic reactions](https://www.khanacademy.org/science/biology/energy-and-enzymes/free-energy-tutorial/a/gibbs-free-energy)** — Khan Academy. Endergonic vs exergonic, with practice. Note the vocabulary difference this page flags: *endothermic* is about heat, *endergonic* about free energy.
+
 **See also:** [Exothermic](../exothermic/README.md) · [Activation Energy](../activation_energy/README.md) · [Metabolism](../metabolism/README.md) · [Glucose](../glucose/README.md)

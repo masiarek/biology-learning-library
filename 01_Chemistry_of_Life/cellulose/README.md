@@ -30,4 +30,11 @@ Motyw maturalny numer jeden: człowiek nie wytwarza celulazy, więc celuloza jes
 
 **Where it sits in AP.** Polysaccharide structure is **Unit 1 (Chemistry of Life)**; cell walls appear in **Unit 2 (Cell Structure and Function)**, and cellulose-digesting symbioses in **Unit 8 (Ecology)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, see the molecule. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Carbohydrates](https://openstax.org/books/biology-2e/pages/3-2-carbohydrates)** — OpenStax *Biology 2e* (free, CC BY). Cellulose set beside starch and glycogen, so the one bond that separates them is visible.
+- **[Cellulases and Bioenergy](https://pdb101.rcsb.org/motm/281)** — RCSB PDB-101, *Molecule of the Month*. The enzymes that *can* break the bond humans cannot — which is why cellulose is at once the most abundant organic molecule on Earth and indigestible to us.
+
 **See also:** [Starch](../starch/README.md) · [Glycogen](../glycogen/README.md) · [Glucose](../glucose/README.md) · [Polysaccharide](../polysaccharide/README.md) · [Carbohydrate](../carbohydrate/README.md)

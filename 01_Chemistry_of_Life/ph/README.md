@@ -32,4 +32,11 @@ W biologii odczyn jest ważny, bo od pH zależy aktywność enzymów i przebieg 
 
 **Where it sits in AP.** Water chemistry and pH are **AP Unit 1 (Chemistry of Life)**; the buffer physiology reappears in feedback-loop questions of **Unit 4 (Cell Communication)** and the ecology link in **Unit 8**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, see the molecule. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Water](https://openstax.org/books/biology-2e/pages/2-2-water)** — OpenStax *Biology 2e* (free, CC BY). The pH scale built from water's own ionization, with buffers following straight on.
+- **[Pepsin](https://pdb101.rcsb.org/motm/12)** — RCSB PDB-101, *Molecule of the Month*. An enzyme with an optimum near **pH 2** — the sharpest illustration that there is no single "good" pH, only the right one for the job.
+
 **See also:** [Acid](../acid/README.md) · [Base](../base/README.md) · [Buffer](../buffer/README.md) · [Ion](../ion/README.md) · [Ionization of Water](../ionization_of_water/README.md) · [Denatured Enzyme](../denatured_enzyme/README.md) · [Homeostasis](../homeostasis/README.md)

@@ -30,4 +30,11 @@ W biologii słowo „zasada” pojawia się najczęściej w zupełnie innym znac
 
 **Where it sits in AP.** Acid–base chemistry is **Unit 1 (Chemistry of Life)**; nitrogenous bases anchor nucleic-acid structure in **Unit 6 (Gene Expression and Regulation)**, and pH feedback control appears with **Unit 4 (Cell Communication and Cell Cycle)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, see the molecule. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Water](https://openstax.org/books/biology-2e/pages/2-2-water)** — OpenStax *Biology 2e* (free, CC BY). Acids, bases, pH and buffers together, so the two halves are defined against each other rather than separately.
+- **[Carbonic Anhydrase](https://pdb101.rcsb.org/motm/49)** — RCSB PDB-101, *Molecule of the Month*. The enzyme that manufactures bicarbonate, the base your blood actually uses — made on demand, at enormous speed.
+
 **See also:** [Acid](../acid/README.md) · [pH](../ph/README.md) · [Buffer](../buffer/README.md) · [Ion](../ion/README.md) · [Ionization of Water](../ionization_of_water/README.md) · [Nucleotide](../nucleotide/README.md)

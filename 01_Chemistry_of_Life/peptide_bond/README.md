@@ -30,4 +30,11 @@ Motyw doświadczalny, który regularnie wraca na maturze, to **reakcja biuretowa
 
 **Where it sits in AP.** Peptide bonds and protein structure are **Unit 1 (Chemistry of Life)**; translation, the ribosome, and its energy costs belong to **Unit 6 (Gene Expression and Regulation)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, see the molecule. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Proteins](https://openstax.org/books/biology-2e/pages/3-4-proteins)** — OpenStax *Biology 2e* (free, CC BY). Where the bond comes from — dehydration synthesis between two amino acids — and what it leaves behind.
+- **[Ribosome](https://pdb101.rcsb.org/motm/121)** — RCSB PDB-101, *Molecule of the Month*. The thing that makes every peptide bond in your body. Worth seeing once, for one detail: the catalytic part is RNA, not protein.
+
 **See also:** [Amino Acid](../amino_acid/README.md) · [Polypeptide](../polypeptide/README.md) · [Protein](../protein/README.md) · [Monomer](../monomer/README.md) · [Polymer](../polymer/README.md)

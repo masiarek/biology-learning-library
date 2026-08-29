@@ -30,4 +30,11 @@ Ulubione skojarzenie maturalne: oddychanie komórkowe to „powolne spalanie” 
 
 **Where it sits in AP.** Exergonic reactions, ATP, and respiration are the core of **Unit 3 (Cellular Energetics)**, with the underlying bond-energy ideas from **Unit 1 (Chemistry of Life)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, practice it. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[The Laws of Thermodynamics](https://openstax.org/books/biology-2e/pages/6-3-the-laws-of-thermodynamics)** — OpenStax *Biology 2e* (free, CC BY). Why released energy always partly escapes as heat — the second law, stated properly.
+- **[Free energy: endergonic vs exergonic reactions](https://www.khanacademy.org/science/biology/energy-and-enzymes/free-energy-tutorial/a/gibbs-free-energy)** — Khan Academy. Exergonic vs endergonic with practice, and the coupling that lets one drive the other.
+
 **See also:** [Endothermic](../endothermic/README.md) · [Activation Energy](../activation_energy/README.md) · [Metabolism](../metabolism/README.md) · [Glucose](../glucose/README.md) · [Catalyst](../catalyst/README.md)

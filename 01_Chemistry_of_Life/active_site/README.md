@@ -30,4 +30,12 @@ Dopasowanie substratu do centrum aktywnego tłumaczy się dwoma modelami: klasyc
 
 **Where it sits in AP.** Active-site structure and catalysis are Topics 3.1–3.3 of **Unit 3 (Cellular Energetics)**, built directly on the protein-structure story of **Unit 1 (Chemistry of Life)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, practice it, see the molecule. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Enzymes](https://openstax.org/books/biology-2e/pages/6-5-enzymes)** — OpenStax *Biology 2e* (free, CC BY). The textbook treatment — active site, induced fit, and what changes the fit.
+- **[Enzymes and the active site](https://www.khanacademy.org/science/biology/energy-and-enzymes/introduction-to-enzymes/a/enzymes-and-the-active-site)** — Khan Academy. An article on exactly this term, with practice questions attached — the fastest way to find out whether it has actually stuck.
+- **[Lysozyme](https://pdb101.rcsb.org/motm/9)** — RCSB PDB-101, *Molecule of the Month*. The first enzyme whose three-dimensional structure was ever solved, and still the clearest to look at. Rotate it and the groove the substrate drops into is visibly a groove.
+
 **See also:** [Enzymes](../enzymes/README.md) · [Substrate](../substrate/README.md) · [Lock and Key Model](../lock_and_key_model/README.md) · [Denatured Enzyme](../denatured_enzyme/README.md) · [Protein](../protein/README.md)

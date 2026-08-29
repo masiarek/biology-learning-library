@@ -38,8 +38,9 @@ Na biologii jony wracają w niemal każdym dziale. Jony wodorowe wyznaczają odc
 
 ## Further reading / Dalsza lektura
 
-Free, external, and all three teach the chemistry this page assumes. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+Free and external — read it, practice it, and go past what biology needs. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
 
+- **[Atoms, Isotopes, Ions, and Molecules: The Building Blocks](https://openstax.org/books/biology-2e/pages/2-1-atoms-isotopes-ions-and-molecules-the-building-blocks)** — OpenStax *Biology 2e* (free, CC BY). Ions in their place among atoms, isotopes and molecules — the section every other page in this unit is measured against.
 - **[Introduction to ions](https://www.khanacademy.org/science/hs-chemistry/x2613d8165d88df5e:atoms-isotopes-and-ions/x2613d8165d88df5e:ions/v/introduction-to-ions)** — Khan Academy, *High School Chemistry* → Atoms, isotopes and ions → Ions. A 6-minute video with a full transcript, then a worked example and three practice sets (NGSS HS‑PS1‑1). Reach for this one if the charge bookkeeping is what will not stick: it is the only source here that makes you *practice*.
 - **[Ionic Compounds](https://manoa.hawaii.edu/exploringourfluidearth/chemical/chemistry-and-seawater/ionic-compounds)** — *Exploring Our Fluid Earth*, University of Hawaiʻi CRDG with NOAA Sea Grant. The most visual of the three: electron-shell tables, diagrams of the transfer actually happening, ion-naming tables and inquiry questions, pitched at exactly this level — with seawater as the running example, which makes it the one that connects ions back to living systems fastest.
 - **[CH103 Chapter 4 — Ions and Ionic Compounds](https://wou.edu/chemistry/courses/online-chemistry-textbooks/ch103-allied-health-chemistry/ch103-chapter-4-ions-and-ionic-compounds/)** — Western Oregon University's open Allied Health Chemistry textbook (CC BY‑NC‑SA 3.0). The deep end, and it runs parallel to the deep dive above: §4.1 the octet rule, §4.2 predicting charge from the periodic table, §4.6–4.7 the polyatomic ions, §4.9 Arrhenius acids and bases, and §4.10 ions, neurons and action potentials.

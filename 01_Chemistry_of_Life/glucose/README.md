@@ -30,4 +30,12 @@ Na biologii glukoza spina trzy wielkie tematy: jest produktem fotosyntezy, subst
 
 **Where it sits in AP.** Glucose structure and isomerism are **Unit 1 (Chemistry of Life)**; its transport belongs to **Unit 2 (Cell Structure and Function)**, its catabolism to **Unit 3 (Cellular Energetics)**, and its hormonal regulation to **Unit 4 (Cell Communication and Cell Cycle)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, practice it, see the molecule. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Carbohydrates](https://openstax.org/books/biology-2e/pages/3-2-carbohydrates)** — OpenStax *Biology 2e* (free, CC BY). Glucose in its ring and chain forms, and the isomers it is easy to confuse it with.
+- **[Carbohydrates](https://www.khanacademy.org/science/biology/macromolecules/carbohydrates/a/carbohydrates)** — Khan Academy. Article and practice on the sugars, glucose first among them.
+- **[Glucose Oxidase](https://pdb101.rcsb.org/motm/77)** — RCSB PDB-101, *Molecule of the Month*. The enzyme on a diabetic test strip. It is how a drop of blood becomes a number, which makes it the most directly useful molecule on this list.
+
 **See also:** [Monosaccharide](../monosaccharide/README.md) · [Starch](../starch/README.md) · [Glycogen](../glycogen/README.md) · [Cellulose](../cellulose/README.md) · [Insulin](../insulin/README.md) · [Carbohydrate](../carbohydrate/README.md)

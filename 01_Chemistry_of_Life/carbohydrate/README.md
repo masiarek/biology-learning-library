@@ -30,4 +30,12 @@ Motywy, które lubi matura: wykrywanie skrobi próbą jodową (jodyna daje grana
 
 **Where it sits in AP.** Carbohydrate structure and function are core **Unit 1 (Chemistry of Life)**; glucose catabolism drives **Unit 3 (Cellular Energetics)**, and surface carbohydrates appear with membranes in **Unit 2 (Cell Structure and Function)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, practice it, see the molecule. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Carbohydrates](https://openstax.org/books/biology-2e/pages/3-2-carbohydrates)** — OpenStax *Biology 2e* (free, CC BY). Monosaccharides through polysaccharides in one section, with the structures drawn.
+- **[Carbohydrates](https://www.khanacademy.org/science/biology/macromolecules/carbohydrates/a/carbohydrates)** — Khan Academy. Article and practice covering the whole family in one pass.
+- **[Alpha-amylase](https://pdb101.rcsb.org/motm/74)** — RCSB PDB-101, *Molecule of the Month*. The enzyme in your saliva that starts cutting starch into sugars before you have even swallowed.
+
 **See also:** [Monosaccharide](../monosaccharide/README.md) · [Polysaccharide](../polysaccharide/README.md) · [Glucose](../glucose/README.md) · [Starch](../starch/README.md) · [Glycogen](../glycogen/README.md) · [Cellulose](../cellulose/README.md)

@@ -30,4 +30,11 @@ Na maturze z biologii ten temat pojawia się niemal zawsze w kontekście enzymó
 
 **Where it sits in AP.** Activation energy and enzyme catalysis are Topics 3.1–3.3 of **Unit 3 (Cellular Energetics)**, resting on the free-energy ideas introduced alongside **Unit 1 (Chemistry of Life)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, see the molecule. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Potential, Kinetic, Free, and Activation Energy](https://openstax.org/books/biology-2e/pages/6-2-potential-kinetic-free-and-activation-energy)** — OpenStax *Biology 2e* (free, CC BY). Free energy and activation energy in one section, with the reaction-coordinate diagram this page describes in words.
+- **[Catalase](https://pdb101.rcsb.org/motm/57)** — RCSB PDB-101, *Molecule of the Month*. What lowering the barrier actually buys you: hydrogen peroxide that would otherwise sit around for weeks is destroyed as fast as it can reach the active site.
+
 **See also:** [Enzymes](../enzymes/README.md) · [Catalyst](../catalyst/README.md) · [Active Site](../active_site/README.md) · [Exothermic](../exothermic/README.md) · [Endothermic](../endothermic/README.md)

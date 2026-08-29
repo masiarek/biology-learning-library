@@ -30,4 +30,12 @@ Klasyfikacja chemiczna, którą lubią zadania: hormony **białkowe/peptydowe** 
 
 **Where it sits in AP.** Signal reception, transduction, and feedback are the heart of **Unit 4 (Cell Communication and Cell Cycle)**; steroid action on transcription links to **Unit 6 (Gene Expression and Regulation)**, and hormone chemistry rests on **Unit 1 (Chemistry of Life)** macromolecules.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, see the molecule. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Types of Hormones](https://openstax.org/books/biology-2e/pages/37-1-types-of-hormones)** — OpenStax *Biology 2e* (free, CC BY). The three chemical classes of hormone, which is what decides whether a hormone can cross a membrane or must signal from outside.
+- **[How Hormones Work](https://openstax.org/books/biology-2e/pages/37-2-how-hormones-work)** — OpenStax *Biology 2e* (free, CC BY). Receptors and second messengers — why a hormone reaches every cell but only some respond.
+- **[Growth Hormone](https://pdb101.rcsb.org/motm/52)** — RCSB PDB-101, *Molecule of the Month*. Caught in the act of binding its receptor: one hormone molecule, two receptors — which is how the signal gets switched on.
+
 **See also:** [Insulin](../insulin/README.md) · [Homeostasis](../homeostasis/README.md) · [Protein](../protein/README.md) · [Lipid](../lipid/README.md)

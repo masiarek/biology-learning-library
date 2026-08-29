@@ -30,4 +30,11 @@ Na chemii monosacharydy mają **właściwości redukujące**, sprawdzane próbą
 
 **Where it sits in AP.** Monosaccharide structure and isomerism are **Unit 1 (Chemistry of Life)**; their pentose derivatives carry through **Unit 3 (Cellular Energetics)** and **Unit 6 (Gene Expression and Regulation)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, practice it. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Carbohydrates](https://openstax.org/books/biology-2e/pages/3-2-carbohydrates)** — OpenStax *Biology 2e* (free, CC BY). Monosaccharides first, then what happens when two or many are joined.
+- **[Carbohydrates](https://www.khanacademy.org/science/biology/macromolecules/carbohydrates/a/carbohydrates)** — Khan Academy. Article and practice on the sugars, from single units upward.
+
 **See also:** [Glucose](../glucose/README.md) · [Polysaccharide](../polysaccharide/README.md) · [Carbohydrate](../carbohydrate/README.md) · [Monomer](../monomer/README.md) · [Nucleotide](../nucleotide/README.md)

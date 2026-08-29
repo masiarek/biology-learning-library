@@ -30,4 +30,11 @@ Cechy wspólne podkreślane w szkole: brak słodkiego smaku, nierozpuszczalnoś�
 
 **Where it sits in AP.** Polysaccharide structure–function is **Unit 1 (Chemistry of Life)**; the osmotic argument reaches into **Unit 2 (Cell Structure and Function)**, and glycogen's hormonal mobilization into **Unit 4 (Cell Communication and Cell Cycle)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, see the molecule. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Carbohydrates](https://openstax.org/books/biology-2e/pages/3-2-carbohydrates)** — OpenStax *Biology 2e* (free, CC BY). Starch, glycogen and cellulose compared directly — same monomer, three different jobs.
+- **[Alpha-amylase](https://pdb101.rcsb.org/motm/74)** — RCSB PDB-101, *Molecule of the Month*. Cutting a polysaccharide back down into sugars — the reverse of the reaction that built it.
+
 **See also:** [Monosaccharide](../monosaccharide/README.md) · [Starch](../starch/README.md) · [Glycogen](../glycogen/README.md) · [Cellulose](../cellulose/README.md) · [Carbohydrate](../carbohydrate/README.md) · [Polymer](../polymer/README.md)

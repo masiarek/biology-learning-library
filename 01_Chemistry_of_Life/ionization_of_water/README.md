@@ -34,4 +34,11 @@ Na biologii ta reakcja jest tłem wszystkiego, co dotyczy odczynu: aktywności e
 
 **Where it sits in AP.** Water's properties, autoionization and pH are **AP Unit 1 (Chemistry of Life)**; the same equilibrium reasoning returns in the buffer feedback loops of **Unit 4 (Cell Communication and Cell Cycle)** and in the proton gradients of **Unit 3 (Cellular Energetics)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, practice it. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Water](https://openstax.org/books/biology-2e/pages/2-2-water)** — OpenStax *Biology 2e* (free, CC BY). Water's properties, its ionization, and the pH scale that comes out of it.
+- **[Solvent properties of water](https://www.khanacademy.org/science/biology/water-acids-and-bases/hydrogen-bonding-in-water/a/water-as-a-solvent)** — Khan Academy. Why water dissolves what it does — the hydrogen bonding that also makes this reaction possible, with practice.
+
 **See also:** [Acid](../acid/README.md) · [Base](../base/README.md) · [pH](../ph/README.md) · [Buffer](../buffer/README.md) · [Ion](../ion/README.md) · [Enzymes](../enzymes/README.md)

@@ -30,4 +30,12 @@ Typowe polecenia maturalne: porównać oba modele (który zakłada sztywne, a kt
 
 **Where it sits in AP.** Enzyme structure and specificity are Topics 3.1–3.2 of **Unit 3 (Cellular Energetics)**, drawing on protein structure from **Unit 1 (Chemistry of Life)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, practice it, see the molecule. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Enzymes](https://openstax.org/books/biology-2e/pages/6-5-enzymes)** — OpenStax *Biology 2e* (free, CC BY). The model and its successor together: lock-and-key, then induced fit, and why the second replaced the first.
+- **[Enzymes and the active site](https://www.khanacademy.org/science/biology/energy-and-enzymes/introduction-to-enzymes/a/enzymes-and-the-active-site)** — Khan Academy. Active site and specificity with practice attached.
+- **[Lysozyme](https://pdb101.rcsb.org/motm/9)** — RCSB PDB-101, *Molecule of the Month*. Rotate it and the "lock" stops being a metaphor — the groove is visibly a groove.
+
 **See also:** [Enzymes](../enzymes/README.md) · [Active Site](../active_site/README.md) · [Substrate](../substrate/README.md) · [Denatured Enzyme](../denatured_enzyme/README.md) · [Catalyst](../catalyst/README.md)

@@ -30,4 +30,11 @@ Rozróżnienie peptyd–białko podawane jest umownie (często granica około 10
 
 **Where it sits in AP.** Protein structure levels are **Unit 1 (Chemistry of Life)**; translation and the gene-to-polypeptide pipeline, with splicing, are **Unit 6 (Gene Expression and Regulation)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, see the molecule. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Proteins](https://openstax.org/books/biology-2e/pages/3-4-proteins)** — OpenStax *Biology 2e* (free, CC BY). Primary through quaternary structure — where a polypeptide stops being a chain and becomes a protein.
+- **[Ribosome](https://pdb101.rcsb.org/motm/121)** — RCSB PDB-101, *Molecule of the Month*. It threads a polypeptide out through a tunnel as the chain is made. The chain exists before the fold does, which is the distinction this page turns on.
+
 **See also:** [Amino Acid](../amino_acid/README.md) · [Peptide Bond](../peptide_bond/README.md) · [Protein](../protein/README.md) · [Polymer](../polymer/README.md) · [Hemoglobin](../hemoglobin/README.md)

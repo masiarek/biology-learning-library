@@ -30,4 +30,12 @@ W kontekście enzymów denaturacja tłumaczy kształt krzywej aktywności: powy�
 
 **Where it sits in AP.** Protein structure and its loss are **Unit 1 (Chemistry of Life)**; environmental effects on enzyme activity are Topic 3.3 of **Unit 3 (Cellular Energetics)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, practice it, see the molecule. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Enzymes](https://openstax.org/books/biology-2e/pages/6-5-enzymes)** — OpenStax *Biology 2e* (free, CC BY). Temperature, pH and enzyme activity, with the optimum curves.
+- **[Enzyme regulation](https://www.khanacademy.org/science/biology/energy-and-enzymes/introduction-to-enzymes/a/enzyme-regulation)** — Khan Academy. How enzyme activity is turned up and down — the reversible controls, against which denaturation stands out as the irreversible one.
+- **[Chaperones](https://pdb101.rcsb.org/motm/32)** — RCSB PDB-101, *Molecule of the Month*. Proteins whose whole job is folding others correctly and rescuing them after heat stress. Denaturation seen from the cell's side.
+
 **See also:** [Enzymes](../enzymes/README.md) · [Active Site](../active_site/README.md) · [Protein](../protein/README.md) · [pH](../ph/README.md) · [Homeostasis](../homeostasis/README.md)

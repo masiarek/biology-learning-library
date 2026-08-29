@@ -30,4 +30,11 @@ Motywy maturalne wracają co roku: **termoregulacja** (pocenie się i rozszerzan
 
 **Where it sits in AP.** Feedback mechanisms are Topic 4.5 of **Unit 4 (Cell Communication and Cell Cycle)**; thermoregulation and energy budgets reappear in **Unit 8 (Ecology)**, and the underlying pH/enzyme constraints come from **Unit 1 (Chemistry of Life)** and **Unit 3 (Cellular Energetics)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, see the molecule. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Homeostasis](https://openstax.org/books/biology-2e/pages/33-3-homeostasis)** — OpenStax *Biology 2e* (free, CC BY). Set points, negative feedback and thermoregulation, with the control-loop diagrams.
+- **[Sodium-Potassium Pump](https://pdb101.rcsb.org/motm/118)** — RCSB PDB-101, *Molecule of the Month*. Running in every cell you have, spending roughly a quarter of your resting energy budget to hold one gradient steady. Homeostasis with a price tag attached.
+
 **See also:** [Buffer](../buffer/README.md) · [Insulin](../insulin/README.md) · [Hormone](../hormone/README.md) · [pH](../ph/README.md) · [Enzymes](../enzymes/README.md)

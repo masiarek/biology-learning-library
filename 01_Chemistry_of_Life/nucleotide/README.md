@@ -30,4 +30,12 @@ Drugi szkolny kontekst to **nukleotydy pozagenetyczne**: ATP jako uniwersalny pr
 
 **Where it sits in AP.** Nucleotide structure is **Unit 1 (Chemistry of Life)**; ATP and electron carriers drive **Unit 3 (Cellular Energetics)**; replication, mutation, and sequencing technology belong to **Unit 6 (Gene Expression and Regulation)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, practice it, see the molecule. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Nucleic Acids](https://openstax.org/books/biology-2e/pages/3-5-nucleic-acids)** — OpenStax *Biology 2e* (free, CC BY). The three parts of a nucleotide, and how the phosphate links them into a backbone.
+- **[Nucleic acids](https://www.khanacademy.org/science/biology/macromolecules/nucleic-acids/a/nucleic-acids)** — Khan Academy. Article and practice on nucleotides and the polymers they build.
+- **[Transfer RNA](https://pdb101.rcsb.org/motm/15)** — RCSB PDB-101, *Molecule of the Month*. A short chain of nucleotides folded into a working tool. Proof that a nucleotide chain need not be an information store.
+
 **See also:** [Nucleic Acid](../nucleic_acid/README.md) · [Monomer](../monomer/README.md) · [Polymer](../polymer/README.md) · [Base](../base/README.md) · [Monosaccharide](../monosaccharide/README.md)

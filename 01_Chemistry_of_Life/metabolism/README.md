@@ -30,4 +30,12 @@ Drugi szkolny kontekst to fizjologia człowieka: **podstawowa przemiana materii 
 
 **Where it sits in AP.** Metabolic energetics, ATP coupling, and enzyme regulation are the backbone of **Unit 3 (Cellular Energetics)**; metabolic-rate scaling and energy budgets belong to **Unit 8 (Ecology)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, practice it, see the molecule. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Energy and Metabolism](https://openstax.org/books/biology-2e/pages/6-1-energy-and-metabolism)** — OpenStax *Biology 2e* (free, CC BY). Anabolic and catabolic pathways, and metabolism as a connected map rather than a list.
+- **[The laws of thermodynamics](https://www.khanacademy.org/science/biology/energy-and-enzymes/the-laws-of-thermodynamics/a/the-laws-of-thermodynamics)** — Khan Academy. The rules metabolism has to obey, with practice — including why living things are not a violation of the second law.
+- **[Citrate Synthase](https://pdb101.rcsb.org/motm/93)** — RCSB PDB-101, *Molecule of the Month*. The first step of the citric acid cycle, snapping shut around its substrates. One real reaction out of the thousands the word covers.
+
 **See also:** [Enzymes](../enzymes/README.md) · [Endothermic](../endothermic/README.md) · [Exothermic](../exothermic/README.md) · [Homeostasis](../homeostasis/README.md) · [Glucose](../glucose/README.md)

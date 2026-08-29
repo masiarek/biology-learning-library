@@ -30,4 +30,11 @@ Na biologii kluczowe jest pojęcie **biokatalizatora**: enzymy to białkowe kata
 
 **Where it sits in AP.** Catalysis and activation energy are Topics 3.1–3.3 of **Unit 3 (Cellular Energetics)**; ribozymes and the RNA world connect to **Unit 6 (Gene Expression and Regulation)** and the origin-of-life discussion in **Unit 7 (Natural Selection)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, see the molecule. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Enzymes](https://openstax.org/books/biology-2e/pages/6-5-enzymes)** — OpenStax *Biology 2e* (free, CC BY). What a catalyst does to a reaction, and why biological catalysts are proteins.
+- **[Catalase](https://pdb101.rcsb.org/motm/57)** — RCSB PDB-101, *Molecule of the Month*. A catalyst you can watch work: it is why hydrogen peroxide foams on a cut — and it is not used up doing it.
+
 **See also:** [Enzymes](../enzymes/README.md) · [Activation Energy](../activation_energy/README.md) · [Substrate](../substrate/README.md) · [Product](../product/README.md)

@@ -30,4 +30,11 @@ Warto świadomie zapamiętać dwuznaczność słowa: w enzymologii „substrat�
 
 **Where it sits in AP.** Reaction energetics and kinetics live in **Unit 3 (Cellular Energetics)** — with photosynthesis and respiration as the flagship reactant/product systems — on foundations from **Unit 1 (Chemistry of Life)**; limiting factors return at ecosystem scale in **Unit 8 (Ecology)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, practice it. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Energy and Metabolism](https://openstax.org/books/biology-2e/pages/6-1-energy-and-metabolism)** — OpenStax *Biology 2e* (free, CC BY). Reactants and products inside metabolic pathways, where the product of one step is the reactant of the next.
+- **[Free energy: endergonic vs exergonic reactions](https://www.khanacademy.org/science/biology/energy-and-enzymes/free-energy-tutorial/a/gibbs-free-energy)** — Khan Academy. What decides which direction a reaction runs, with practice.
+
 **See also:** [Product](../product/README.md) · [Substrate](../substrate/README.md) · [Enzymes](../enzymes/README.md) · [Metabolism](../metabolism/README.md) · [Endothermic](../endothermic/README.md)

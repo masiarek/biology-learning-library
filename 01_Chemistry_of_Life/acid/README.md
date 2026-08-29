@@ -30,4 +30,11 @@ Na biologii ważniejsze są kwasy „życiowe”: kwas mlekowy powstający w int
 
 **Where it sits in AP.** Acids, bases, and pH are **Unit 1 (Chemistry of Life)**; blood-buffer feedback physiology connects to **Unit 4 (Cell Communication and Cell Cycle)** and ocean acidification to **Unit 8 (Ecology)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, see the molecule. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Water](https://openstax.org/books/biology-2e/pages/2-2-water)** — OpenStax *Biology 2e* (free, CC BY). Its pH, buffers and acid–base section — the same ground as this page, with the pH scale drawn out and worked through.
+- **[Pepsin](https://pdb101.rcsb.org/motm/12)** — RCSB PDB-101, *Molecule of the Month*. The enzyme your stomach runs at **pH 2** — a protein that would be wrecked by neutral surroundings and needs the acid to work. The clearest answer to "how strong is stomach acid, really?"
+
 **See also:** [pH](../ph/README.md) · [Base](../base/README.md) · [Buffer](../buffer/README.md) · [Ion](../ion/README.md) · [Ionization of Water](../ionization_of_water/README.md) · [Amino Acid](../amino_acid/README.md) · [Nucleic Acid](../nucleic_acid/README.md)

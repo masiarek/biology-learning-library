@@ -30,4 +30,12 @@ Doświadczenia, o które pyta matura: **reakcja biuretowa** (fioletowe zabarwien
 
 **Where it sits in AP.** Protein structure is the summit of **Unit 1 (Chemistry of Life)**; proteins then star everywhere — membranes and transport in **Unit 2 (Cell Structure and Function)**, enzymes in **Unit 3 (Cellular Energetics)**, receptors in **Unit 4 (Cell Communication and Cell Cycle)**, and synthesis/regulation in **Unit 6 (Gene Expression and Regulation)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, practice it, see the molecule. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Proteins](https://openstax.org/books/biology-2e/pages/3-4-proteins)** — OpenStax *Biology 2e* (free, CC BY). Amino acids, the peptide bond, and all four levels of structure in one section.
+- **[Introduction to proteins and amino acids](https://www.khanacademy.org/science/biology/macromolecules/proteins-and-amino-acids/a/introduction-to-proteins-and-amino-acids)** — Khan Academy. Article and practice from amino acid up to folded protein.
+- **[Collagen](https://pdb101.rcsb.org/motm/4)** — RCSB PDB-101, *Molecule of the Month*. The most abundant protein in your body, and a triple helix rather than the globular blob textbooks default to. A useful corrective.
+
 **See also:** [Amino Acid](../amino_acid/README.md) · [Polypeptide](../polypeptide/README.md) · [Peptide Bond](../peptide_bond/README.md) · [Enzymes](../enzymes/README.md) · [Hemoglobin](../hemoglobin/README.md) · [Denatured Enzyme](../denatured_enzyme/README.md)

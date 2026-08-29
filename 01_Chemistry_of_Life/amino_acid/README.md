@@ -30,4 +30,12 @@ Szkolny podział, o który regularnie pyta matura, to aminokwasy endogenne (orga
 
 **Where it sits in AP.** Amino-acid structure and protein folding are **Unit 1 (Chemistry of Life)**; the genetic code and translation return in **Unit 6 (Gene Expression and Regulation)**, and sickle-cell's heterozygote advantage in **Unit 7 (Natural Selection)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, practice it, see the molecule. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Proteins](https://openstax.org/books/biology-2e/pages/3-4-proteins)** — OpenStax *Biology 2e* (free, CC BY). Amino acid structure, the R-group families, and how the twenty build every protein.
+- **[Introduction to proteins and amino acids](https://www.khanacademy.org/science/biology/macromolecules/proteins-and-amino-acids/a/introduction-to-proteins-and-amino-acids)** — Khan Academy. Article plus practice on amino acids and the proteins they make.
+- **[Aminoacyl-tRNA Synthetases](https://pdb101.rcsb.org/motm/16)** — RCSB PDB-101, *Molecule of the Month*. The twenty proofreading machines that each grab one amino acid and no other — the best illustration of why the R-group is the whole identity.
+
 **See also:** [Protein](../protein/README.md) · [Peptide Bond](../peptide_bond/README.md) · [Polypeptide](../polypeptide/README.md) · [Monomer](../monomer/README.md) · [Hemoglobin](../hemoglobin/README.md)

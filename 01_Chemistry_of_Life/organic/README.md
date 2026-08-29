@@ -30,4 +30,11 @@ Podręczniki chętnie przywołują historię pojęcia: do XIX wieku sądzono, ż
 
 **Where it sits in AP.** The elements and functional groups of life open **Unit 1 (Chemistry of Life)**; abiotic synthesis and the origin of life close **Unit 7 (Natural Selection)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, practice it. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Carbon](https://openstax.org/books/biology-2e/pages/2-3-carbon)** — OpenStax *Biology 2e* (free, CC BY). Why carbon and not another element: four bonds, chains, rings, and the functional groups that follow.
+- **[Introduction to macromolecules](https://www.khanacademy.org/science/biology/macromolecules/introduction-to-macromolecules/a/introduction-to-macromolecules)** — Khan Academy. The four families of organic molecule life is built from, with practice.
+
 **See also:** [Carbohydrate](../carbohydrate/README.md) · [Lipid](../lipid/README.md) · [Protein](../protein/README.md) · [Nucleic Acid](../nucleic_acid/README.md) · [Monomer](../monomer/README.md)

@@ -30,4 +30,12 @@ Kluczowe pojęcie to **komplementarność zasad** (A–T/A–U, G–C), na któr
 
 **Where it sits in AP.** Nucleic-acid structure is **Unit 1 (Chemistry of Life)**; replication, transcription, translation, and the evidence experiments fill **Unit 6 (Gene Expression and Regulation)**, with inheritance in **Unit 5 (Heredity)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, practice it, see the molecule. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Nucleic Acids](https://openstax.org/books/biology-2e/pages/3-5-nucleic-acids)** — OpenStax *Biology 2e* (free, CC BY). DNA and RNA, their nucleotides, and the structural differences that follow.
+- **[Nucleic acids](https://www.khanacademy.org/science/biology/macromolecules/nucleic-acids/a/nucleic-acids)** — Khan Academy. Article and practice covering both molecules and the base pairing.
+- **[DNA Polymerase](https://pdb101.rcsb.org/motm/3)** — RCSB PDB-101, *Molecule of the Month*. The machine that reads one strand and builds its partner — including the proofreading that keeps the error rate absurdly low.
+
 **See also:** [Nucleotide](../nucleotide/README.md) · [Polymer](../polymer/README.md) · [Monomer](../monomer/README.md) · [Protein](../protein/README.md)

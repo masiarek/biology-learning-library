@@ -30,4 +30,12 @@ Drugi stały motyw to cukrzyca (łac. *diabetes mellitus*): **typu 1** — autoi
 
 **Where it sits in AP.** Signal transduction and feedback are **Unit 4 (Cell Communication and Cell Cycle)**; GLUT transport belongs to **Unit 2 (Cell Structure and Function)**, and recombinant production to the biotechnology topics of **Unit 6 (Gene Expression and Regulation)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, see the molecule. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Regulation of Body Processes](https://openstax.org/books/biology-2e/pages/37-3-regulation-of-body-processes)** — OpenStax *Biology 2e* (free, CC BY). Blood-glucose regulation as a feedback loop, insulin and glucagon as the two directions.
+- **[Insulin](https://pdb101.rcsb.org/motm/14)** — RCSB PDB-101, *Molecule of the Month*. The first protein ever sequenced, and the first made by genetic engineering. Small, and consequential out of all proportion to its size.
+- **[Glucagon](https://pdb101.rcsb.org/motm/184)** — RCSB PDB-101, *Molecule of the Month*. The other half of the loop — insulin is only half a story on its own.
+
 **See also:** [Hormone](../hormone/README.md) · [Glucose](../glucose/README.md) · [Glycogen](../glycogen/README.md) · [Homeostasis](../homeostasis/README.md) · [Protein](../protein/README.md)

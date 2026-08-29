@@ -30,4 +30,12 @@ Funkcje wyliczane w polskiej szkole: zapasowa (najbardziej kaloryczny materiał 
 
 **Where it sits in AP.** Lipid structure and function are **Unit 1 (Chemistry of Life)**; membrane structure and fluidity dominate **Unit 2 (Cell Structure and Function)**, and steroid signaling appears in **Unit 4 (Cell Communication and Cell Cycle)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, practice it, see the molecule. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Lipids](https://openstax.org/books/biology-2e/pages/3-3-lipids)** — OpenStax *Biology 2e* (free, CC BY). Fats, phospholipids, steroids and waxes in one section — one family held together by not dissolving rather than by a shared structure.
+- **[Lipids](https://www.khanacademy.org/science/biology/macromolecules/lipids/a/lipids)** — Khan Academy. Article and practice, including saturated vs unsaturated and why the bend matters.
+- **[Fatty Acid Synthase](https://pdb101.rcsb.org/motm/90)** — RCSB PDB-101, *Molecule of the Month*. An assembly line that builds a fatty acid two carbons at a time, which is why they come out almost always even-numbered.
+
 **See also:** [Carbohydrate](../carbohydrate/README.md) · [Protein](../protein/README.md) · [Hormone](../hormone/README.md) · [Polymer](../polymer/README.md) · [Organic](../organic/README.md)

@@ -30,4 +30,11 @@ Warto rozróżniać kontekst chemiczny i biologiczny: na chemii „polimeryzacja
 
 **Where it sits in AP.** Monomers, polymers, and dehydration/hydrolysis are the opening topics of **Unit 1 (Chemistry of Life)**; polymer directionality pays off in **Unit 6 (Gene Expression and Regulation)**, and monomer universality in **Unit 7 (Natural Selection)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, practice it. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Synthesis of Biological Macromolecules](https://openstax.org/books/biology-2e/pages/3-1-synthesis-of-biological-macromolecules)** — OpenStax *Biology 2e* (free, CC BY). Dehydration synthesis and hydrolysis — the two reactions that turn monomers into polymers and back.
+- **[Introduction to macromolecules](https://www.khanacademy.org/science/biology/macromolecules/introduction-to-macromolecules/a/introduction-to-macromolecules)** — Khan Academy. All four families in one article, with practice, so the monomer/polymer pattern is visible four times over.
+
 **See also:** [Polymer](../polymer/README.md) · [Monosaccharide](../monosaccharide/README.md) · [Amino Acid](../amino_acid/README.md) · [Nucleotide](../nucleotide/README.md) · [Glucose](../glucose/README.md)

@@ -30,4 +30,11 @@ Maturalny klasyk to bufory płynów ustrojowych: bufor wodorowęglanowy krwi (na
 
 **Where it sits in AP.** Buffer chemistry belongs to **Unit 1 (Chemistry of Life)**; the breathing-rate feedback loop is textbook **Unit 4 (Cell Communication and Cell Cycle)** material, and ocean acidification connects to **Unit 8 (Ecology)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, see the molecule. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Water](https://openstax.org/books/biology-2e/pages/2-2-water)** — OpenStax *Biology 2e* (free, CC BY). The buffer section, with the bicarbonate system worked through as the standing example.
+- **[Carbonic Anhydrase](https://pdb101.rcsb.org/motm/49)** — RCSB PDB-101, *Molecule of the Month*. A buffer is usually taught as pure chemistry; this is the *protein* that keeps the blood's version supplied, and one of the fastest enzymes known.
+
 **See also:** [pH](../ph/README.md) · [Acid](../acid/README.md) · [Base](../base/README.md) · [Ion](../ion/README.md) · [Ionization of Water](../ionization_of_water/README.md) · [Homeostasis](../homeostasis/README.md) · [Enzymes](../enzymes/README.md)

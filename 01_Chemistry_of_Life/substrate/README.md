@@ -30,4 +30,12 @@ Drugi wątek szkolny to **wpływ stężenia substratu na szybkość reakcji enzy
 
 **Where it sits in AP.** Enzyme–substrate kinetics, saturation, and inhibition are Topics 3.1–3.3 of **Unit 3 (Cellular Energetics)**; substrate-level phosphorylation reappears in that unit's respiration topics.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, practice it, see the molecule. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Enzymes](https://openstax.org/books/biology-2e/pages/6-5-enzymes)** — OpenStax *Biology 2e* (free, CC BY). Substrate, active site and specificity, with competitive inhibition as the test of the idea.
+- **[Enzymes and the active site](https://www.khanacademy.org/science/biology/energy-and-enzymes/introduction-to-enzymes/a/enzymes-and-the-active-site)** — Khan Academy. Article and practice on how an enzyme picks its substrate out of a crowded cell.
+- **[Trypsin](https://pdb101.rcsb.org/motm/46)** — RCSB PDB-101, *Molecule of the Month*. It cuts a protein chain only next to particular amino acids — specificity you can see, as a pocket that fits one side chain and not others.
+
 **See also:** [Enzymes](../enzymes/README.md) · [Active Site](../active_site/README.md) · [Lock and Key Model](../lock_and_key_model/README.md) · [Product](../product/README.md) · [Reactant](../reactant/README.md)

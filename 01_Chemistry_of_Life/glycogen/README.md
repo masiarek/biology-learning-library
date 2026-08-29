@@ -30,4 +30,11 @@ Motyw maturalny to oś insulina–glukagon: po posiłku insulina pobudza **gliko
 
 **Where it sits in AP.** Polysaccharide structure is **Unit 1 (Chemistry of Life)**; the insulin/glucagon feedback loop and its signaling cascades are **Unit 4 (Cell Communication and Cell Cycle)**, with the osmotic argument touching **Unit 2 (Cell Structure and Function)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, see the molecule. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Carbohydrates](https://openstax.org/books/biology-2e/pages/3-2-carbohydrates)** — OpenStax *Biology 2e* (free, CC BY). Glycogen beside starch and cellulose, where its heavy branching is the point of comparison.
+- **[Glycogen Phosphorylase](https://pdb101.rcsb.org/motm/24)** — RCSB PDB-101, *Molecule of the Month*. The enzyme that chops glucose off the ends of the branches — and the reason all that branching pays off, since more ends means faster release.
+
 **See also:** [Starch](../starch/README.md) · [Cellulose](../cellulose/README.md) · [Glucose](../glucose/README.md) · [Polysaccharide](../polysaccharide/README.md) · [Insulin](../insulin/README.md)

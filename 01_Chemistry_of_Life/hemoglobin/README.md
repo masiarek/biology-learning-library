@@ -30,4 +30,12 @@ Sztandarowy motyw maturalny to **karboksyhemoglobina**: tlenek węgla (czad) wi�
 
 **Where it sits in AP.** Protein structure–function and sickle cell are **Unit 1 (Chemistry of Life)**; inheritance patterns land in **Unit 5 (Heredity)** and heterozygote advantage in **Unit 7 (Natural Selection)**.
 
+## Further reading / Dalsza lektura
+
+Free and external — read it, see the molecule. *(Źródła zewnętrzne, bezpłatne, po angielsku.)*
+
+- **[Components of the Blood](https://openstax.org/books/biology-2e/pages/40-2-components-of-the-blood)** — OpenStax *Biology 2e* (free, CC BY). Hemoglobin in its working context: red cells, oxygen transport, and the blood it travels in.
+- **[Hemoglobin](https://pdb101.rcsb.org/motm/41)** — RCSB PDB-101, *Molecule of the Month*. Four subunits, four hemes, rotatable. Cooperative binding is much easier to believe once you have seen the shape change.
+- **[Fetal Hemoglobin](https://pdb101.rcsb.org/motm/257)** — RCSB PDB-101, *Molecule of the Month*. It binds oxygen *more* tightly than the adult form — which is exactly how a fetus takes oxygen out of its mother's blood.
+
 **See also:** [Protein](../protein/README.md) · [Amino Acid](../amino_acid/README.md) · [Polypeptide](../polypeptide/README.md) · [Homeostasis](../homeostasis/README.md)
