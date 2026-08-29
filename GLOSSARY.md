@@ -161,6 +161,7 @@ Wszystkie hasła biblioteki w jednej tabeli — angielski po lewej, polski po pr
 | [Interphase](04_DNA_and_Cell_Division/interphase/README.md) | Interfaza | 4 |
 | [Invasive Species](07_Ecological_Principles/invasive_species/README.md) | Gatunek inwazyjny | 7 |
 | [Ion](01_Chemistry_of_Life/ion/README.md) | Jon | 1 |
+| [Ionization of Water](01_Chemistry_of_Life/ionization_of_water/README.md) | Autodysocjacja wody | 1 |
 | [Isotonic](03_Cellular_Processes/isotonic/README.md) | Roztwór izotoniczny | 3 |
 | [Karyotype](05_Genetics_and_Biotechnology/karyotype/README.md) | Kariotyp | 5 |
 | [Kingdom (Taxon)](06_Evolution_and_Diversity_of_Life/kingdom/README.md) | Królestwo | 6 |
@@ -258,4 +259,4 @@ Wszystkie hasła biblioteki w jednej tabeli — angielski po lewej, polski po pr
 | [Vacuoles](02_Cells_as_Living_Systems/vacuoles/README.md) | Wakuole | 2 |
 | [Vesicles](02_Cells_as_Living_Systems/vesicles/README.md) | Pęcherzyki transportujące | 2 |
 
-**249 terms.**
+**250 terms.**

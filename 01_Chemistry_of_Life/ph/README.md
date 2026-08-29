@@ -22,7 +22,7 @@ W biologii odczyn jest ważny, bo od pH zależy aktywność enzymów i przebieg 
 
 ## AP Biology deep dive
 
-**The math.** pH = −log₁₀[H⁺]. A solution at pH 3 has [H⁺] = 10⁻³ M; that is why one pH unit is a tenfold change in hydrogen-ion concentration. Water itself autoionizes (H₂O ⇌ H⁺ + OH⁻) with [H⁺][OH⁻] = 10⁻¹⁴ at 25 °C, which is where the 0–14 range and the neutrality point [H⁺] = [OH⁻] = 10⁻⁷ come from.
+**The math.** pH = −log₁₀[H⁺]. A solution at pH 3 has [H⁺] = 10⁻³ M; that is why one pH unit is a tenfold change in hydrogen-ion concentration. Water itself [autoionizes](../ionization_of_water/README.md) (H₂O ⇌ H⁺ + OH⁻) with [H⁺][OH⁻] = 10⁻¹⁴ at 25 °C, which is where the 0–14 range and the neutrality point [H⁺] = [OH⁻] = 10⁻⁷ come from.
 
 **Buffers, quantitatively.** A buffer is a conjugate weak acid–base pair that soaks up added H⁺ or OH⁻. The one AP expects you to know is the **carbonic acid–bicarbonate** system in blood: CO₂ + H₂O ⇌ H₂CO₃ ⇌ H⁺ + HCO₃⁻. Add acid and the equilibrium shifts left; add base and it shifts right — blood pH stays within 7.35–7.45. This couples chemistry to physiology: the medulla senses pH drops (from dissolved CO₂) and raises breathing rate to vent CO₂, a negative feedback loop.
 
@@ -32,4 +32,4 @@ W biologii odczyn jest ważny, bo od pH zależy aktywność enzymów i przebieg 
 
 **Where it sits in AP.** Water chemistry and pH are **AP Unit 1 (Chemistry of Life)**; the buffer physiology reappears in feedback-loop questions of **Unit 4 (Cell Communication)** and the ecology link in **Unit 8**.
 
-**See also:** [Acid](../acid/README.md) · [Base](../base/README.md) · [Buffer](../buffer/README.md) · [Ion](../ion/README.md) · [Denatured Enzyme](../denatured_enzyme/README.md) · [Homeostasis](../homeostasis/README.md)
+**See also:** [Acid](../acid/README.md) · [Base](../base/README.md) · [Buffer](../buffer/README.md) · [Ion](../ion/README.md) · [Ionization of Water](../ionization_of_water/README.md) · [Denatured Enzyme](../denatured_enzyme/README.md) · [Homeostasis](../homeostasis/README.md)
