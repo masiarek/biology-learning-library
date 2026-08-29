@@ -49,6 +49,14 @@
 | [Starch](starch/README.md) | skrobia | How plants store extra glucose. |
 | [Substrate](substrate/README.md) | substrat enzymu | The molecule an enzyme acts on. |
 
+### Extra page / Strona dodatkowa
+
+Not on the course keyword list — added because the terms above lean on it constantly. · Poza kursową listą haseł — dodane, bo powyższe hasła nieustannie się do niego odwołują.
+
+| Term | Po polsku | In one line |
+|---|---|---|
+| [Ion](ion/README.md) | jon | A charged atom or molecule — H⁺ is the one pH counts. |
+
 ---
 
 ## AP Biology connection

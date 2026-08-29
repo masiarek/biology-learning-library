@@ -32,4 +32,4 @@ W biologii odczyn jest ważny, bo od pH zależy aktywność enzymów i przebieg 
 
 **Where it sits in AP.** Water chemistry and pH are **AP Unit 1 (Chemistry of Life)**; the buffer physiology reappears in feedback-loop questions of **Unit 4 (Cell Communication)** and the ecology link in **Unit 8**.
 
-**See also:** [Acid](../acid/README.md) · [Base](../base/README.md) · [Buffer](../buffer/README.md) · [Denatured Enzyme](../denatured_enzyme/README.md) · [Homeostasis](../homeostasis/README.md)
+**See also:** [Acid](../acid/README.md) · [Base](../base/README.md) · [Buffer](../buffer/README.md) · [Ion](../ion/README.md) · [Denatured Enzyme](../denatured_enzyme/README.md) · [Homeostasis](../homeostasis/README.md)

@@ -108,7 +108,7 @@ STRANDS = [
                             "u1/lock_and_key_model", "u1/activation_energy",
                             "u1/denatured_enzyme", "u1/reactant", "u1/product",
                             "u1/metabolism", "u1/endothermic", "u1/exothermic",
-                            "u1/ph", "u1/acid", "u1/base", "u1/buffer",
+                            "u1/ph", "u1/acid", "u1/base", "u1/buffer", "u1/ion",
                         ],
                     },
                     {

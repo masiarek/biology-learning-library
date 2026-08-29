@@ -30,4 +30,4 @@ Maturalny klasyk to bufory płynów ustrojowych: bufor wodorowęglanowy krwi (na
 
 **Where it sits in AP.** Buffer chemistry belongs to **Unit 1 (Chemistry of Life)**; the breathing-rate feedback loop is textbook **Unit 4 (Cell Communication and Cell Cycle)** material, and ocean acidification connects to **Unit 8 (Ecology)**.
 
-**See also:** [pH](../ph/README.md) · [Acid](../acid/README.md) · [Base](../base/README.md) · [Homeostasis](../homeostasis/README.md) · [Enzymes](../enzymes/README.md)
+**See also:** [pH](../ph/README.md) · [Acid](../acid/README.md) · [Base](../base/README.md) · [Ion](../ion/README.md) · [Homeostasis](../homeostasis/README.md) · [Enzymes](../enzymes/README.md)

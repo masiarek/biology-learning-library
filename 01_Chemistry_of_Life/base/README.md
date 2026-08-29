@@ -30,4 +30,4 @@ W biologii słowo „zasada” pojawia się najczęściej w zupełnie innym znac
 
 **Where it sits in AP.** Acid–base chemistry is **Unit 1 (Chemistry of Life)**; nitrogenous bases anchor nucleic-acid structure in **Unit 6 (Gene Expression and Regulation)**, and pH feedback control appears with **Unit 4 (Cell Communication and Cell Cycle)**.
 
-**See also:** [Acid](../acid/README.md) · [pH](../ph/README.md) · [Buffer](../buffer/README.md) · [Nucleotide](../nucleotide/README.md)
+**See also:** [Acid](../acid/README.md) · [pH](../ph/README.md) · [Buffer](../buffer/README.md) · [Ion](../ion/README.md) · [Nucleotide](../nucleotide/README.md)

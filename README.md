@@ -18,7 +18,7 @@ Biologia licealna, termin po terminie, **w dwóch językach**. Każde hasło z k
 | [Unit 6 · Evolution and Diversity of Life](06_Evolution_and_Diversity_of_Life/README.md) | Ewolucja i różnorodność życia | 49 |
 | [Unit 7 · Ecological Principles](07_Ecological_Principles/README.md) | Podstawy ekologii | 32 |
 
-**267 terms**, one folder per term, one page per folder.
+**267 terms**, one folder per term, one page per folder — plus the occasional **extra page** for something the course list leans on without naming (currently [Ion](01_Chemistry_of_Life/ion/README.md)).
 
 ## How each page works / Jak działa każda strona
 
